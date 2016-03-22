@@ -1,0 +1,365 @@
+[2015-11-13 16:34:02|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] SynchronizeDatabase.SyncDb load config file: 'DbInfo.cfg'
+[2015-11-13 16:34:02|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Set start date, get current date
+[2015-11-13 16:34:02|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Start date:20120301,Current date:20151113
+[2015-11-13 16:34:02|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Divide dates by month
+[2015-11-13 16:34:02|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] SynchronizeDatabase.SyncDb load config file: tbs.cfg
+[2015-11-13 16:34:02|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Connect remote database
+[2015-11-13 16:34:02|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] SynchronizeDatabase.ConnDb load config file: 'DbInfo.cfg'
+[2015-11-13 16:34:02|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Connecting to remote database: 'CICCGenius'...
+[2015-11-13 16:34:02|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]   Server: '192.168.193.139'
+[2015-11-13 16:34:02|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]   Username: 'geniusfi'
+[2015-11-13 16:34:02|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]   Password: 'Qt2013'
+[2015-11-13 16:34:02|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Successfully connected!
+[2015-11-13 16:34:02|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Check remote database...
+[2015-11-13 16:34:02|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Check remote table: 'STK_BALA_GEN'('BALANCESHEET')
+[2015-11-13 16:34:03|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Last update time: 2015-11-12 14:10:35
+[2015-11-13 16:34:03|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Check remote table: 'STK_INCOME_GEN'('INCOMESTATEMENT')
+[2015-11-13 16:34:03|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Last update time: 2015-11-12 14:14:08
+[2015-11-13 16:34:03|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Check remote table: 'STK_CASH_GEN'('CASHFLOWSTATEMENT')
+[2015-11-13 16:34:03|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Last update time: 2015-11-12 14:15:15
+[2015-11-13 16:34:03|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Connecting to local database 'test.db'
+[2015-11-13 16:34:03|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Database 'test.db' dose not exist, create one
+[2015-11-13 16:34:03|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Check local database...
+[2015-11-13 16:34:03|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Local table 'BALANCESHEET' dose not exist
+[2015-11-13 16:34:03|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Create local table: BALANCESHEET
+[2015-11-13 16:34:03|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Local table 'INCOMESTATEMENT' dose not exist
+[2015-11-13 16:34:03|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Create local table: INCOMESTATEMENT
+[2015-11-13 16:34:03|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Local table 'CASHFLOWSTATEMENT' dose not exist
+[2015-11-13 16:34:03|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Create local table: CASHFLOWSTATEMENT
+[2015-11-13 16:34:04|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Syncronizing...
+[2015-11-13 16:34:04|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]   Update table:STK_BALA_GEN
+[2015-11-13 16:34:04|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120301 to 20120331
+[2015-11-13 16:34:04|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120401 to 20120430
+[2015-11-13 16:34:04|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120501 to 20120531
+[2015-11-13 16:34:04|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120601 to 20120630
+[2015-11-13 16:34:04|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120701 to 20120831
+[2015-11-13 16:34:04|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120801 to 20120831
+[2015-11-13 16:34:05|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120901 to 20120930
+[2015-11-13 16:34:05|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20121001 to 20121031
+[2015-11-13 16:34:05|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20121101 to 20121130
+[2015-11-13 16:34:05|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20121201 to 20121231
+[2015-11-13 16:34:05|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130101 to 20130131
+[2015-11-13 16:34:05|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130201 to 20130230
+[2015-11-13 16:34:06|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130301 to 20130331
+[2015-11-13 16:34:06|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130401 to 20130430
+[2015-11-13 16:34:06|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130501 to 20130531
+[2015-11-13 16:34:06|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130601 to 20130630
+[2015-11-13 16:34:06|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130701 to 20130831
+[2015-11-13 16:34:06|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130801 to 20130831
+[2015-11-13 16:34:07|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130901 to 20130930
+[2015-11-13 16:34:07|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20131001 to 20131031
+[2015-11-13 16:34:07|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20131101 to 20131130
+[2015-11-13 16:34:07|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20131201 to 20131231
+[2015-11-13 16:34:07|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140101 to 20140131
+[2015-11-13 16:34:07|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140201 to 20140230
+[2015-11-13 16:34:07|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140301 to 20140331
+[2015-11-13 16:34:08|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140401 to 20140430
+[2015-11-13 16:34:08|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140501 to 20140531
+[2015-11-13 16:34:08|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140601 to 20140630
+[2015-11-13 16:34:08|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140701 to 20140831
+[2015-11-13 16:34:08|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140801 to 20140831
+[2015-11-13 16:34:08|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140901 to 20140930
+[2015-11-13 16:34:09|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20141001 to 20141031
+[2015-11-13 16:34:09|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20141101 to 20141130
+[2015-11-13 16:34:09|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20141201 to 20141231
+[2015-11-13 16:34:09|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150101 to 20150131
+[2015-11-13 16:34:09|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150201 to 20150230
+[2015-11-13 16:34:09|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150301 to 20150331
+[2015-11-13 16:34:10|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150401 to 20150430
+[2015-11-13 16:34:10|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150501 to 20150531
+[2015-11-13 16:34:10|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150601 to 20150630
+[2015-11-13 16:34:10|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150701 to 20150831
+[2015-11-13 16:34:10|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150801 to 20150831
+[2015-11-13 16:34:11|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150901 to 20150930
+[2015-11-13 16:34:11|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20151001 to 20151031
+[2015-11-13 16:34:11|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20151101 to 20151113
+[2015-11-13 16:34:11|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]   Update table:STK_INCOME_GEN
+[2015-11-13 16:34:11|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120301 to 20120331
+[2015-11-13 16:34:12|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120401 to 20120430
+[2015-11-13 16:34:12|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120501 to 20120531
+[2015-11-13 16:34:12|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120601 to 20120630
+[2015-11-13 16:34:13|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120701 to 20120831
+[2015-11-13 16:34:13|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120801 to 20120831
+[2015-11-13 16:34:13|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120901 to 20120930
+[2015-11-13 16:34:14|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20121001 to 20121031
+[2015-11-13 16:34:14|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20121101 to 20121130
+[2015-11-13 16:34:14|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20121201 to 20121231
+[2015-11-13 16:34:14|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130101 to 20130131
+[2015-11-13 16:34:15|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130201 to 20130230
+[2015-11-13 16:34:15|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130301 to 20130331
+[2015-11-13 16:34:15|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130401 to 20130430
+[2015-11-13 16:34:16|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130501 to 20130531
+[2015-11-13 16:34:16|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130601 to 20130630
+[2015-11-13 16:34:16|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130701 to 20130831
+[2015-11-13 16:34:17|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130801 to 20130831
+[2015-11-13 16:34:17|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130901 to 20130930
+[2015-11-13 16:34:17|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20131001 to 20131031
+[2015-11-13 16:34:18|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20131101 to 20131130
+[2015-11-13 16:34:18|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20131201 to 20131231
+[2015-11-13 16:34:18|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140101 to 20140131
+[2015-11-13 16:34:18|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140201 to 20140230
+[2015-11-13 16:34:18|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140301 to 20140331
+[2015-11-13 16:34:19|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140401 to 20140430
+[2015-11-13 16:34:19|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140501 to 20140531
+[2015-11-13 16:34:20|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140601 to 20140630
+[2015-11-13 16:34:20|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140701 to 20140831
+[2015-11-13 16:34:20|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140801 to 20140831
+[2015-11-13 16:34:21|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140901 to 20140930
+[2015-11-13 16:34:21|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20141001 to 20141031
+[2015-11-13 16:34:21|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20141101 to 20141130
+[2015-11-13 16:34:22|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20141201 to 20141231
+[2015-11-13 16:34:22|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150101 to 20150131
+[2015-11-13 16:34:22|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150201 to 20150230
+[2015-11-13 16:34:22|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150301 to 20150331
+[2015-11-13 16:34:23|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150401 to 20150430
+[2015-11-13 16:34:23|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150501 to 20150531
+[2015-11-13 16:34:24|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150601 to 20150630
+[2015-11-13 16:34:24|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150701 to 20150831
+[2015-11-13 16:34:24|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150801 to 20150831
+[2015-11-13 16:34:25|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150901 to 20150930
+[2015-11-13 16:34:25|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20151001 to 20151031
+[2015-11-13 16:34:25|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20151101 to 20151113
+[2015-11-13 16:34:26|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]   Update table:STK_CASH_GEN
+[2015-11-13 16:34:26|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120301 to 20120331
+[2015-11-13 16:34:26|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120401 to 20120430
+[2015-11-13 16:34:26|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120501 to 20120531
+[2015-11-13 16:34:27|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120601 to 20120630
+[2015-11-13 16:34:27|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120701 to 20120831
+[2015-11-13 16:34:27|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120801 to 20120831
+[2015-11-13 16:34:28|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120901 to 20120930
+[2015-11-13 16:34:28|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20121001 to 20121031
+[2015-11-13 16:34:28|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20121101 to 20121130
+[2015-11-13 16:34:28|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20121201 to 20121231
+[2015-11-13 16:34:29|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130101 to 20130131
+[2015-11-13 16:34:29|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130201 to 20130230
+[2015-11-13 16:34:29|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130301 to 20130331
+[2015-11-13 16:34:29|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130401 to 20130430
+[2015-11-13 16:34:30|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130501 to 20130531
+[2015-11-13 16:34:30|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130601 to 20130630
+[2015-11-13 16:34:30|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130701 to 20130831
+[2015-11-13 16:34:31|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130801 to 20130831
+[2015-11-13 16:34:31|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130901 to 20130930
+[2015-11-13 16:34:31|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20131001 to 20131031
+[2015-11-13 16:34:32|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20131101 to 20131130
+[2015-11-13 16:34:32|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20131201 to 20131231
+[2015-11-13 16:34:32|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140101 to 20140131
+[2015-11-13 16:34:32|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140201 to 20140230
+[2015-11-13 16:34:33|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140301 to 20140331
+[2015-11-13 16:34:33|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140401 to 20140430
+[2015-11-13 16:34:34|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140501 to 20140531
+[2015-11-13 16:34:34|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140601 to 20140630
+[2015-11-13 16:34:34|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140701 to 20140831
+[2015-11-13 16:34:34|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140801 to 20140831
+[2015-11-13 16:34:35|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140901 to 20140930
+[2015-11-13 16:34:35|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20141001 to 20141031
+[2015-11-13 16:34:35|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20141101 to 20141130
+[2015-11-13 16:34:36|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20141201 to 20141231
+[2015-11-13 16:34:36|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150101 to 20150131
+[2015-11-13 16:34:36|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150201 to 20150230
+[2015-11-13 16:34:36|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150301 to 20150331
+[2015-11-13 16:34:37|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150401 to 20150430
+[2015-11-13 16:34:37|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150501 to 20150531
+[2015-11-13 16:34:37|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150601 to 20150630
+[2015-11-13 16:34:38|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150701 to 20150831
+[2015-11-13 16:34:38|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150801 to 20150831
+[2015-11-13 16:34:39|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150901 to 20150930
+[2015-11-13 16:34:39|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20151001 to 20151031
+[2015-11-13 16:34:39|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20151101 to 20151113
+[2015-11-16 11:33:07|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] SynchronizeDatabase.SyncDb load config file: 'DbInfo.cfg'
+[2015-11-16 11:33:07|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Set start date, get current date
+[2015-11-16 11:33:07|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Start date:20120301,Current date:20151116
+[2015-11-16 11:33:07|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Divide dates by month
+[2015-11-16 11:33:07|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] SynchronizeDatabase.SyncDb load config file: tbs.cfg
+[2015-11-16 11:33:07|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Connect remote database
+[2015-11-16 11:33:07|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] SynchronizeDatabase.ConnDb load config file: 'DbInfo.cfg'
+[2015-11-16 11:33:07|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Connecting to remote database: 'CICCGenius'...
+[2015-11-16 11:33:07|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]   Server: '192.168.193.139'
+[2015-11-16 11:33:07|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]   Username: 'geniusfi'
+[2015-11-16 11:33:07|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]   Password: 'Qt2013'
+[2015-11-16 11:33:07|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Successfully connected!
+[2015-11-16 11:33:07|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Check remote database...
+[2015-11-16 11:33:07|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Check remote table: 'STK_BALA_GEN'('BALANCESHEET')
+[2015-11-16 11:33:10|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Last update time: 2015-11-12 14:10:35
+[2015-11-16 11:33:10|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Check remote table: 'STK_INCOME_GEN'('INCOMESTATEMENT')
+[2015-11-16 11:33:11|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Last update time: 2015-11-13 19:13:36
+[2015-11-16 11:33:11|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Check remote table: 'STK_CASH_GEN'('CASHFLOWSTATEMENT')
+[2015-11-16 11:33:12|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Last update time: 2015-11-12 14:15:15
+[2015-11-16 11:33:12|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Connecting to local database 'test.db'
+[2015-11-16 11:33:12|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Database 'test.db' dose not exist, create one
+[2015-11-16 11:33:12|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Check local database...
+[2015-11-16 11:33:12|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Local table 'BALANCESHEET' dose not exist
+[2015-11-16 11:33:12|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Create local table: BALANCESHEET
+[2015-11-16 11:33:12|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Local table 'INCOMESTATEMENT' dose not exist
+[2015-11-16 11:33:12|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Create local table: INCOMESTATEMENT
+[2015-11-16 11:33:12|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Local table 'CASHFLOWSTATEMENT' dose not exist
+[2015-11-16 11:33:12|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Create local table: CASHFLOWSTATEMENT
+[2015-11-16 11:33:12|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Syncronizing...
+[2015-11-16 11:33:12|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]   Update table:STK_BALA_GEN
+[2015-11-16 11:33:12|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120301 to 20120331
+[2015-11-16 11:33:13|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120401 to 20120430
+[2015-11-16 11:33:13|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120501 to 20120531
+[2015-11-16 11:33:13|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120601 to 20120630
+[2015-11-16 11:33:13|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120701 to 20120831
+[2015-11-16 11:33:13|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120801 to 20120831
+[2015-11-16 11:33:13|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120901 to 20120930
+[2015-11-16 11:33:14|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20121001 to 20121031
+[2015-11-16 11:33:14|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20121101 to 20121130
+[2015-11-16 11:33:14|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20121201 to 20121231
+[2015-11-16 11:33:14|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130101 to 20130131
+[2015-11-16 11:33:14|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130201 to 20130230
+[2015-11-16 11:33:14|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130301 to 20130331
+[2015-11-16 11:33:15|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130401 to 20130430
+[2015-11-16 11:33:15|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130501 to 20130531
+[2015-11-16 11:33:15|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130601 to 20130630
+[2015-11-16 11:33:15|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130701 to 20130831
+[2015-11-16 11:33:15|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130801 to 20130831
+[2015-11-16 11:33:15|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130901 to 20130930
+[2015-11-16 11:33:16|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20131001 to 20131031
+[2015-11-16 11:33:16|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20131101 to 20131130
+[2015-11-16 11:33:16|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20131201 to 20131231
+[2015-11-16 11:33:16|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140101 to 20140131
+[2015-11-16 11:33:16|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140201 to 20140230
+[2015-11-16 11:33:16|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140301 to 20140331
+[2015-11-16 11:33:16|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140401 to 20140430
+[2015-11-16 11:33:17|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140501 to 20140531
+[2015-11-16 11:33:17|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140601 to 20140630
+[2015-11-16 11:33:17|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140701 to 20140831
+[2015-11-16 11:33:17|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140801 to 20140831
+[2015-11-16 11:33:17|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140901 to 20140930
+[2015-11-16 11:33:18|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20141001 to 20141031
+[2015-11-16 11:33:18|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20141101 to 20141130
+[2015-11-16 11:33:18|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20141201 to 20141231
+[2015-11-16 11:33:18|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150101 to 20150131
+[2015-11-16 11:33:18|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150201 to 20150230
+[2015-11-16 11:33:18|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150301 to 20150331
+[2015-11-16 11:33:18|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150401 to 20150430
+[2015-11-16 11:33:19|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150501 to 20150531
+[2015-11-16 11:33:19|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150601 to 20150630
+[2015-11-16 11:33:19|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150701 to 20150831
+[2015-11-16 11:33:19|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150801 to 20150831
+[2015-11-16 11:33:19|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150901 to 20150930
+[2015-11-16 11:33:20|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20151001 to 20151031
+[2015-11-16 11:33:20|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20151101 to 20151116
+[2015-11-16 11:33:20|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]   Update table:STK_INCOME_GEN
+[2015-11-16 11:33:20|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120301 to 20120331
+[2015-11-16 11:33:20|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120401 to 20120430
+[2015-11-16 11:33:21|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120501 to 20120531
+[2015-11-16 11:33:21|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120601 to 20120630
+[2015-11-16 11:33:21|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120701 to 20120831
+[2015-11-16 11:33:22|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120801 to 20120831
+[2015-11-16 11:33:22|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120901 to 20120930
+[2015-11-16 11:33:22|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20121001 to 20121031
+[2015-11-16 11:33:22|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20121101 to 20121130
+[2015-11-16 11:33:23|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20121201 to 20121231
+[2015-11-16 11:33:23|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130101 to 20130131
+[2015-11-16 11:33:23|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130201 to 20130230
+[2015-11-16 11:33:23|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130301 to 20130331
+[2015-11-16 11:33:24|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130401 to 20130430
+[2015-11-16 11:33:24|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130501 to 20130531
+[2015-11-16 11:33:25|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130601 to 20130630
+[2015-11-16 11:33:25|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130701 to 20130831
+[2015-11-16 11:33:25|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130801 to 20130831
+[2015-11-16 11:33:26|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130901 to 20130930
+[2015-11-16 11:33:26|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20131001 to 20131031
+[2015-11-16 11:33:26|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20131101 to 20131130
+[2015-11-16 11:33:27|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20131201 to 20131231
+[2015-11-16 11:33:27|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140101 to 20140131
+[2015-11-16 11:33:27|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140201 to 20140230
+[2015-11-16 11:33:27|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140301 to 20140331
+[2015-11-16 11:33:28|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140401 to 20140430
+[2015-11-16 11:33:28|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140501 to 20140531
+[2015-11-16 11:33:28|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140601 to 20140630
+[2015-11-16 11:33:29|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140701 to 20140831
+[2015-11-16 11:33:29|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140801 to 20140831
+[2015-11-16 11:33:29|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140901 to 20140930
+[2015-11-16 11:33:30|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20141001 to 20141031
+[2015-11-16 11:33:30|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20141101 to 20141130
+[2015-11-16 11:33:30|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20141201 to 20141231
+[2015-11-16 11:33:31|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150101 to 20150131
+[2015-11-16 11:33:31|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150201 to 20150230
+[2015-11-16 11:33:31|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150301 to 20150331
+[2015-11-16 11:33:31|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150401 to 20150430
+[2015-11-16 11:33:32|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150501 to 20150531
+[2015-11-16 11:33:32|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150601 to 20150630
+[2015-11-16 11:33:32|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150701 to 20150831
+[2015-11-16 11:33:33|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150801 to 20150831
+[2015-11-16 11:33:33|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150901 to 20150930
+[2015-11-16 11:33:33|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20151001 to 20151031
+[2015-11-16 11:33:34|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20151101 to 20151116
+[2015-11-16 11:33:34|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]   Update table:STK_CASH_GEN
+[2015-11-16 11:33:34|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120301 to 20120331
+[2015-11-16 11:33:35|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120401 to 20120430
+[2015-11-16 11:33:35|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120501 to 20120531
+[2015-11-16 11:33:35|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120601 to 20120630
+[2015-11-16 11:33:35|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120701 to 20120831
+[2015-11-16 11:33:36|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120801 to 20120831
+[2015-11-16 11:33:36|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20120901 to 20120930
+[2015-11-16 11:33:36|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20121001 to 20121031
+[2015-11-16 11:33:37|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20121101 to 20121130
+[2015-11-16 11:33:37|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20121201 to 20121231
+[2015-11-16 11:33:37|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130101 to 20130131
+[2015-11-16 11:33:37|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130201 to 20130230
+[2015-11-16 11:33:38|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130301 to 20130331
+[2015-11-16 11:33:38|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130401 to 20130430
+[2015-11-16 11:33:38|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130501 to 20130531
+[2015-11-16 11:33:38|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130601 to 20130630
+[2015-11-16 11:33:39|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130701 to 20130831
+[2015-11-16 11:33:39|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130801 to 20130831
+[2015-11-16 11:33:39|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20130901 to 20130930
+[2015-11-16 11:33:40|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20131001 to 20131031
+[2015-11-16 11:33:40|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20131101 to 20131130
+[2015-11-16 11:33:40|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20131201 to 20131231
+[2015-11-16 11:33:40|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140101 to 20140131
+[2015-11-16 11:33:41|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140201 to 20140230
+[2015-11-16 11:33:41|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140301 to 20140331
+[2015-11-16 11:33:41|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140401 to 20140430
+[2015-11-16 11:33:41|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140501 to 20140531
+[2015-11-16 11:33:42|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140601 to 20140630
+[2015-11-16 11:33:42|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140701 to 20140831
+[2015-11-16 11:33:42|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140801 to 20140831
+[2015-11-16 11:33:42|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20140901 to 20140930
+[2015-11-16 11:33:43|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20141001 to 20141031
+[2015-11-16 11:33:43|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20141101 to 20141130
+[2015-11-16 11:33:43|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20141201 to 20141231
+[2015-11-16 11:33:43|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150101 to 20150131
+[2015-11-16 11:33:44|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150201 to 20150230
+[2015-11-16 11:33:44|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150301 to 20150331
+[2015-11-16 11:33:44|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150401 to 20150430
+[2015-11-16 11:33:45|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150501 to 20150531
+[2015-11-16 11:33:45|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150601 to 20150630
+[2015-11-16 11:33:45|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150701 to 20150831
+[2015-11-16 11:33:45|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150801 to 20150831
+[2015-11-16 11:33:46|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20150901 to 20150930
+[2015-11-16 11:33:46|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20151001 to 20151031
+[2015-11-16 11:33:47|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20151101 to 20151116
+[2015-11-16 16:44:55|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] SynchronizeDatabase.SyncDb load config file: 'DbInfo.cfg'
+[2015-11-16 16:44:55|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Set start date, get current date
+[2015-11-16 16:44:55|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Start date:20120301,Current date:20151116
+[2015-11-16 16:44:55|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Divide dates by month
+[2015-11-16 16:44:55|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] SynchronizeDatabase.SyncDb load config file: tbs.cfg
+[2015-11-16 16:44:55|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Connect remote database
+[2015-11-16 16:44:55|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] SynchronizeDatabase.ConnDb load config file: 'DbInfo.cfg'
+[2015-11-16 16:44:55|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Connecting to remote database: 'CICCGenius'...
+[2015-11-16 16:44:55|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]   Server: '192.168.193.139'
+[2015-11-16 16:44:55|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]   Username: 'geniusfi'
+[2015-11-16 16:44:55|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]   Password: 'Qt2013'
+[2015-11-16 16:44:55|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Successfully connected!
+[2015-11-16 16:44:55|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Check remote database...
+[2015-11-16 16:44:55|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Check remote table: 'STK_BALA_GEN'('BALANCESHEET')
+[2015-11-16 16:44:55|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Last update time: 2015-11-16 16:38:59
+[2015-11-16 16:44:55|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Check remote table: 'STK_INCOME_GEN'('INCOMESTATEMENT')
+[2015-11-16 16:44:55|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Last update time: 2015-11-16 15:17:27
+[2015-11-16 16:44:55|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Check remote table: 'STK_CASH_GEN'('CASHFLOWSTATEMENT')
+[2015-11-16 16:44:56|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Last update time: 2015-11-16 15:17:25
+[2015-11-16 16:44:56|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Connecting to local database 'test.db'
+[2015-11-16 16:44:56|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Check local database...
+[2015-11-16 16:44:56|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Check local table: 'BALANCESHEET'
+[2015-11-16 16:44:56|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Check local table: 'INCOMESTATEMENT'
+[2015-11-16 16:44:56|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Check local table: 'CASHFLOWSTATEMENT'
+[2015-11-16 16:44:56|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO] Syncronizing...
+[2015-11-16 16:44:56|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]   Update table:STK_BALA_GEN
+[2015-11-16 16:44:56|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20151102 to 20151116
+[2015-11-16 16:44:56|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]   Update table:STK_INCOME_GEN
+[2015-11-16 16:44:56|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20151102 to 20151116
+[2015-11-16 16:44:56|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]   Update table:STK_CASH_GEN
+[2015-11-16 16:44:56|SynchronizeDatabase.CICCGeniuDb.SyncFinRptData|INFO]     From 20151102 to 20151116
