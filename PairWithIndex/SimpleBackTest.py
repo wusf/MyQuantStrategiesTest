@@ -34,28 +34,24 @@ if __name__=="__main__":
     computeZScore = pca.PCA_For_Stat_Arb("MktData\\MktData_Wind_CICC.db", 1,"20050101")
     computeZScore.LoadDataIntoTimeSeries("000905","000905",1)
     
-    entry = 1.9
-    exit =  0.2
+    entry = 1.8
+    exit =  0.3
     revsT = 30
-    dd = 1
+    dd = 0
     params = "Params501"
     
     rets = pd.DataFrame()
-    posi = pd.DataFrame()
-    trdT = pd.DataFrame()
-    for params in ["Params501","Params502","Params503","Params504","Params505","Params506","Params507","ParamsIndex"]:#,"Params4","Params5"]:
+    posi = pd.DataFrame()    
+    for params in ["Params501"]:#,"Params502","Params503","Params504","Params505","Params506","Params507"]:#,"Params4","Params5"]:
         scoreFile = "ZScores{}.csv".format(params)
         revsFile = "ReversePerid{}.csv".format(params)        
         print "Run backtest, param: {}, value:{}".format('score',params)
         ret = Backtest(computeZScore, scoreFile, revsFile, entry, exit, revsT,dd)
         rets = pd.concat([rets,ret[0]],axis=1)
         posi = pd.concat([posi,ret[1]],axis=1)
-        trdT = pd.concat([trdT,ret[2]],axis=1)
-        
     rets.to_csv("HedgedReturn{}.csv".format("_ZScoreTest"))
     rets.cumsum().to_csv("CumReturn{}.csv".format("_ZScoreTest"))
     posi.to_csv("Position{}.csv".format("_ZScoreTest"))   
-    trdT.to_csv("TradeTimes{}.csv".format("_ZScoreTest"))   
     
     #entry = 1.6
     #exit =  1.0005

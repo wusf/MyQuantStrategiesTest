@@ -10,7 +10,7 @@ import os,sys,sqlite3
 MyQtLibPath = os.path.abspath("D:\\MyQuantLib\\")
 sys.path.append(MyQtLibPath)
 
-import PCA.PCA_For_Stat_Arb2 as pca
+import StatArb.PCA.PCA_For_Stat_Arb2 as pca
 import pandas as pd
 import numpy as np
 import time
@@ -49,8 +49,8 @@ def ComputeZScores(begDate,endDate,computeZScore,paramsDict,mark):
                 reEstCorrDay = computeZScore.trdDay[i]
                 computeZScore.GenEigenPort(reEstCorrDay,v,varPecent,corrSampleDays,0.05)
                 print "Re estimate correlation matrix and process PCA"
-            computeZScore.RegressOnEigenFactor(scoreDate,regressSampleDays,ifAdjustReturnByVol,winsorize=1)
-            res = computeZScore.OUFitAndCalcZScore(ouSampleDays,ifDeTrend)
+            computeZScore.RegressOnEigenFactor(scoreDate,regressSampleDays,winsorize=3)
+            res = computeZScore.OUFitAndCalcZScore(ouSampleDays,ifAdjustReturnByVol,ifDeTrend)
             significantEigNum.append(computeZScore.significantEigNum)
             _score = res[0].loc['score'].to_frame(scoreDate).transpose()
             _scoreAdj = res[0].loc['score_adj'].to_frame(scoreDate).transpose()
@@ -85,69 +85,69 @@ if __name__=="__main__":
     params1['RegressSampleDays']=180
     params1['OUFitSampleDays']=60
     params1['IfDeTrend']=0
-    params1['IfAdjRetByVol']=0
+    params1['IfAdjRetByVol']=1
     
     params2 = {}
-    params2['EigenNum']=0
+    params2['EigenNum']=8
     params2['VarExplained']=0.55
-    params2['CorrMatSampleDays']=250
-    params2['RegressSampleDays']=60
+    params2['CorrMatSampleDays']=300
+    params2['RegressSampleDays']=180
     params2['OUFitSampleDays']=60
     params2['IfDeTrend']=0
     params2['IfAdjRetByVol']=0   
     
     params3 = {}
-    params3['EigenNum']=0
+    params3['EigenNum']=10
     params3['VarExplained']=0.55
     params3['CorrMatSampleDays']=300
-    params3['RegressSampleDays']=60
+    params3['RegressSampleDays']=180
     params3['OUFitSampleDays']=60
     params3['IfDeTrend']=0
     params3['IfAdjRetByVol']=0       
     
     params4 = {}
-    params4['EigenNum']=18
+    params4['EigenNum']=15
     params4['VarExplained']=0.55
-    params4['CorrMatSampleDays']=250
-    params4['RegressSampleDays']=60
+    params4['CorrMatSampleDays']=300
+    params4['RegressSampleDays']=180
     params4['OUFitSampleDays']=60
     params4['IfDeTrend']=0
     params4['IfAdjRetByVol']=0       
     
     params5 = {}
-    params5['EigenNum']=15
+    params5['EigenNum']=5
     params5['VarExplained']=0.60
-    params5['CorrMatSampleDays']=250
-    params5['RegressSampleDays']=60
-    params5['OUFitSampleDays']=60
+    params5['CorrMatSampleDays']=300
+    params5['RegressSampleDays']=180
+    params5['OUFitSampleDays']=40
     params5['IfDeTrend']=0
     params5['IfAdjRetByVol']=0     
     
     params6 = {}
-    params6['EigenNum']=10
+    params6['EigenNum']=8
     params6['VarExplained']=0.65
-    params6['CorrMatSampleDays']=250
-    params6['RegressSampleDays']=60
-    params6['OUFitSampleDays']=60
+    params6['CorrMatSampleDays']=300
+    params6['RegressSampleDays']=180
+    params6['OUFitSampleDays']=40
     params6['IfDeTrend']=0
     params6['IfAdjRetByVol']=0    
     
     params7 = {}
-    params7['EigenNum']=5
+    params7['EigenNum']=12
     params7['VarExplained']=0.60
-    params7['CorrMatSampleDays']=250
-    params7['RegressSampleDays']=60
-    params7['OUFitSampleDays']=60
+    params7['CorrMatSampleDays']=300
+    params7['RegressSampleDays']=180
+    params7['OUFitSampleDays']=40
     params7['IfDeTrend']=0
     params7['IfAdjRetByVol']=0      
     
-    ComputeZScores(begDate,endDate,computeZScore,params1,'Params501')
-    ComputeZScores(begDate,endDate,computeZScore,params2,'Params502')
-    ComputeZScores(begDate,endDate,computeZScore,params3,'Params503')
-    ComputeZScores(begDate,endDate,computeZScore,params4,'Params504')
-    ComputeZScores(begDate,endDate,computeZScore,params5,'Params505')
-    ComputeZScores(begDate,endDate,computeZScore,params6,'Params506')
-    ComputeZScores(begDate,endDate,computeZScore,params7,'Params507')
+    ComputeZScores(begDate,endDate,computeZScore,params1,'Params501VT')
+    #ComputeZScores(begDate,endDate,computeZScore,params2,'Params502')
+    #ComputeZScores(begDate,endDate,computeZScore,params3,'Params503')
+    #ComputeZScores(begDate,endDate,computeZScore,params4,'Params504')
+    #ComputeZScores(begDate,endDate,computeZScore,params5,'Params505')
+    #ComputeZScores(begDate,endDate,computeZScore,params6,'Params506')
+    #ComputeZScores(begDate,endDate,computeZScore,params7,'Params507')
 
 
 
