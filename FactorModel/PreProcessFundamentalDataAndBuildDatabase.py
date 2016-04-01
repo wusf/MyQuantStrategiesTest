@@ -30,3 +30,6 @@ objBuildPITDB.LoadFundamentalDataItemsToBeProcessed()
 
 namePITDatabase = "PITFundamentalData.db"
 objBuildPITDB.CreateDatabase(namePITDatabase)
+
+startDate="20050101"
+objBuildPITDB.CalculateAndSaveData(startDate)
