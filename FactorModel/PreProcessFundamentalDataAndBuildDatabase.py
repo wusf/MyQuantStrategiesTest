@@ -14,6 +14,8 @@ sys.path.append(root)
 import Tools.LogOutputHandler as LogHandler
 import FactorModel.PreProcessFundamentalData.BuildPointInTimeFundamentalDatabase as modBuildPITDB
 
+
+#Set up file log
 myLog = logging.Logger("BuildPITFundamentalDatabase", level="DEBUG")
 myLogHandler = LogHandler.LogOutputHandler("BuildPITFundamentalDatabase.log")
 fh=myLogHandler[0]
@@ -21,15 +23,19 @@ ch=myLogHandler[1]
 myLog.addHandler(fh)
 myLog.addHandler(ch)
 
+#Initiate BuildPITDB object
 objBuildPITDB = modBuildPITDB.BuildPITFundamentalDatabase(myLog)
 
+#Database address and load raw data
 addrssDBIndexConstituent = "\\MktGenInfo\\IndexConstituent_Wind.db"
 constituentIndex = "000300"
 objBuildPITDB.SetStockUniverse(addrssDBIndexConstituent,constituentIndex)
 objBuildPITDB.LoadFundamentalDataItemsToBeProcessed()
 
+#Name PITDatabase and create it
 namePITDatabase = "PITFundamentalData.db"
 objBuildPITDB.CreateDatabase(namePITDatabase)
 
+#Start to process data
 startDate="20050101"
 objBuildPITDB.CalculateAndSaveData(startDate)
