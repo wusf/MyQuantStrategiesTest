@@ -15,7 +15,7 @@ import Tools.LogOutputHandler as LogHandler
 import FactorModel.ComputeFundamentalFactors.ComputeFactorValuesAndZScores as modComputeFactor
 
 #----------------------------------------------------------------------
-if __name__ == "__main__":
+def MainFunc():
     """
     使用已经处理过的财报数据和预测数据计算因子值并按行业对该值进行标准化
     """
@@ -52,5 +52,5 @@ if __name__ == "__main__":
     
     
 #----------------------------------------------------------------------
-#if __name__ == "__main__":
-#    MainFunc()
+if __name__ == "__main__":
+    MainFunc()
