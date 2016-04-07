@@ -29,10 +29,10 @@ def MainFunc():
     myLog.addHandler(ch)    
     
     #Database address
-    dbPathFactorValues = "Index_000300_10Day_Rebalance.db"
+    dbPathFactorValues = "Factor_399906_20D.db"
     dbPathMarketData = "MktData\\MktData_Wind_CICC.db"
     begDate = "20100101"
-    endDate = "20120101"
+    endDate = "20160101"
     
     #Initiate a GetHedgedPortfolioBySingleFactor object
     objGetHedgedPort = modGetHedgedPort.GetHedgedPortfolioBySingleFactor(dbPathFactorValues,
@@ -42,7 +42,7 @@ def MainFunc():
     #Calculate hedged portfolio return
     factors = objGetHedgedPort.GetFactorNames()
     for factor in factors:
-        objGetHedgedPort.CalculateHedgedPortfolioReturn(factor,"FactorValues","1","2",0.2,"DESC","ByFactorVar\\Plot_HS300")
+        objGetHedgedPort.CalculateHedgedPortfolioReturn(factor,"FactorValues","1","2",0.2,"DESC","Plot_HS300")
     
     
     
