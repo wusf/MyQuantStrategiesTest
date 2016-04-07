@@ -38,8 +38,8 @@ def MainFunc():
     
     #Set stock universe and rebalance date
     stockUnviverIndex = "000300"
-    begDate = "20100101"
-    endDate = "20120101"
+    begDate = "20070101"
+    endDate = "20160101"
     holdingPeriod = 10
     objComputeFactor.SetStockUniverseAndFactorReCalcDate(stockUnviverIndex,begDate,endDate,holdingPeriod)
     

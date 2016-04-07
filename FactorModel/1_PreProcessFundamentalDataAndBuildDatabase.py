@@ -33,7 +33,7 @@ def MainFunc():
     
     #Database address and load raw data
     addrssDBIndexConstituent = "\\MktGenInfo\\IndexConstituent_Wind.db"
-    constituentIndex = "000300"
+    constituentIndex = "399906"
     objBuildPITDB.SetStockUniverse(addrssDBIndexConstituent,constituentIndex)
     objBuildPITDB.LoadFundamentalDataItemsToBeProcessed()
     
