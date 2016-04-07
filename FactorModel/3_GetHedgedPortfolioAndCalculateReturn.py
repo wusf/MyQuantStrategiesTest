@@ -41,7 +41,8 @@ def MainFunc():
 
     #Calculate hedged portfolio return
     factors = objGetHedgedPort.GetFactorNames()
-    print factors
+    for factor in factors:
+        objGetHedgedPort.CalculateHedgedPortfolioReturn(factor,"FactorValues","1","2",0.2,"DESC","ByFactorVar\\Plot_HS300")
     
     
     
