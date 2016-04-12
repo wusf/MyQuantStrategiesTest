@@ -31,6 +31,7 @@ def MainFunc():
     #Database address
     dbPathFactorValues = "Factor_399906_20D.db"
     dbPathMarketData = "MktData\\MktData_Wind_CICC.db"
+    
     begDate = "20100101"
     endDate = "20160101"
     
