@@ -21,8 +21,8 @@ def MainFunc():
     把基本面因子原始值转换成ZScores
     """
     #Set up a file log
-    myLog = logging.Logger("ComputeFactorValuesAndZScores", level="DEBUG")
-    myLogHandler = LogHandler.LogOutputHandler("ComputeFactorValuesAndZScores.log")
+    myLog = logging.Logger("ConvertFactorValuesToZScores", level="DEBUG")
+    myLogHandler = LogHandler.LogOutputHandler("ConvertFactorValuesToZScores.log")
     fh=myLogHandler[0]
     ch=myLogHandler[1]
     myLog.addHandler(fh)
@@ -46,8 +46,8 @@ def MainFunc():
     objConvertToZScores.LoadFactorValues()
     
     #Calculate ZScores
-    objConvertToZScores.ToZScores()
-    print objConvertToZScores.factorTrim
+    objConvertToZScores.ToZScores(90,3)
+    #print objConvertToZScores.factorTrim
 
 
 

@@ -3093,3 +3093,33 @@
 [2016-04-12 18:12:43|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Create in-memory database for factor values
 [2016-04-12 18:12:43|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Load factor values into in-memory database...
 [2016-04-12 18:12:44|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-13 11:12:40|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Connect to local factor database
+[2016-04-13 11:12:40|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Create in-memory database for factor values
+[2016-04-13 11:12:40|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Load factor values into in-memory database...
+[2016-04-13 11:12:42|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-13 11:12:57|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Connect to local factor database
+[2016-04-13 11:12:57|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Create in-memory database for factor values
+[2016-04-13 11:12:57|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Load factor values into in-memory database...
+[2016-04-13 11:12:58|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-13 11:13:43|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Connect to local factor database
+[2016-04-13 11:13:43|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Create in-memory database for factor values
+[2016-04-13 11:13:43|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Load factor values into in-memory database...
+[2016-04-13 11:13:44|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-13 11:18:40|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Connect to local factor database
+[2016-04-13 11:18:40|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Create in-memory database for factor values
+[2016-04-13 11:18:40|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Load factor values into in-memory database...
+[2016-04-13 11:18:41|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-13 11:18:41|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Create local zscore database
+[2016-04-13 11:18:41|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-13 11:19:30|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Connect to local factor database
+[2016-04-13 11:19:30|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Create in-memory database for factor values
+[2016-04-13 11:19:30|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Load factor values into in-memory database...
+[2016-04-13 11:19:31|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-13 11:19:31|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Create local zscore database
+[2016-04-13 11:19:31|ComputeFactorValuesAndZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-13 11:20:11|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Connect to local factor database
+[2016-04-13 11:20:11|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Create in-memory database for factor values
+[2016-04-13 11:20:11|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Load factor values into in-memory database...
+[2016-04-13 11:20:12|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-13 11:20:12|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Create local zscore database
+[2016-04-13 11:20:13|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Done!

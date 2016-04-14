@@ -1,0 +1,293 @@
+[2016-04-13 11:21:09|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Connect to local factor database
+[2016-04-13 11:21:09|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Create in-memory database for factor values
+[2016-04-13 11:21:09|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Load factor values into in-memory database...
+[2016-04-13 11:21:10|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-13 11:21:10|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Create local zscore database
+[2016-04-13 11:21:11|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-14 15:27:24|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Connect to local factor database
+[2016-04-14 15:27:24|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Create in-memory database for factor values
+[2016-04-14 15:27:24|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Load factor values into in-memory database...
+[2016-04-14 15:27:25|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-14 15:27:25|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Create local zscore database...
+[2016-04-14 15:27:25|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-14 15:27:38|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Connect to local factor database
+[2016-04-14 15:27:38|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Create in-memory database for factor values
+[2016-04-14 15:27:38|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Load factor values into in-memory database...
+[2016-04-14 15:27:39|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-14 15:27:39|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Create local zscore database...
+[2016-04-14 15:27:40|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-14 15:28:56|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Connect to local factor database
+[2016-04-14 15:28:56|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Create in-memory database for factor values
+[2016-04-14 15:28:56|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Load factor values into in-memory database...
+[2016-04-14 15:28:57|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-14 15:28:57|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Create local zscore database...
+[2016-04-14 15:28:57|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-14 15:29:20|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Connect to local factor database
+[2016-04-14 15:29:20|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Create in-memory database for factor values
+[2016-04-14 15:29:20|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Load factor values into in-memory database...
+[2016-04-14 15:29:22|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-14 15:29:22|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Create local zscore database...
+[2016-04-14 15:29:22|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-14 15:55:21|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Connect to local factor database
+[2016-04-14 15:55:21|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Create in-memory database for factor values
+[2016-04-14 15:55:21|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Load factor values into in-memory database...
+[2016-04-14 15:55:22|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-14 15:55:46|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Connect to local factor database
+[2016-04-14 15:55:46|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Create in-memory database for factor values
+[2016-04-14 15:55:46|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Load factor values into in-memory database...
+[2016-04-14 15:55:47|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-14 15:55:47|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Create local zscore database...
+[2016-04-14 15:55:47|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-14 15:56:43|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Connect to local factor database
+[2016-04-14 15:56:43|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Create in-memory database for factor values
+[2016-04-14 15:56:43|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Load factor values into in-memory database...
+[2016-04-14 15:56:45|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-14 15:56:45|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Create local zscore database...
+[2016-04-14 15:56:45|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-14 15:56:45|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20070104!
+[2016-04-14 15:58:01|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Connect to local factor database
+[2016-04-14 15:58:01|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Create in-memory database for factor values
+[2016-04-14 15:58:01|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Load factor values into in-memory database...
+[2016-04-14 15:58:03|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-14 15:58:03|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Create local zscore database...
+[2016-04-14 15:58:03|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-14 15:58:03|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20070104!
+[2016-04-14 15:59:00|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Connect to local factor database
+[2016-04-14 15:59:00|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Create in-memory database for factor values
+[2016-04-14 15:59:00|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Load factor values into in-memory database...
+[2016-04-14 15:59:01|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-14 15:59:01|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Create local zscore database...
+[2016-04-14 15:59:01|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-14 15:59:01|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20070104!
+[2016-04-14 15:59:16|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Connect to local factor database
+[2016-04-14 15:59:16|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Create in-memory database for factor values
+[2016-04-14 15:59:16|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Load factor values into in-memory database...
+[2016-04-14 15:59:17|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-14 15:59:17|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Create local zscore database...
+[2016-04-14 15:59:17|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-14 15:59:17|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20070104!
+[2016-04-14 15:59:48|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Connect to local factor database
+[2016-04-14 15:59:48|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Create in-memory database for factor values
+[2016-04-14 15:59:48|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Load factor values into in-memory database...
+[2016-04-14 15:59:49|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-14 15:59:49|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Create local zscore database...
+[2016-04-14 15:59:49|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Done!
+[2016-04-14 15:59:50|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20070104!
+[2016-04-14 15:59:50|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20070118!
+[2016-04-14 15:59:50|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20070201!
+[2016-04-14 15:59:50|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20070215!
+[2016-04-14 15:59:50|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20070308!
+[2016-04-14 15:59:51|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20070322!
+[2016-04-14 15:59:51|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20070405!
+[2016-04-14 15:59:51|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20070419!
+[2016-04-14 15:59:51|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20070510!
+[2016-04-14 15:59:51|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20070524!
+[2016-04-14 15:59:51|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20070607!
+[2016-04-14 15:59:52|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20070621!
+[2016-04-14 15:59:52|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20070705!
+[2016-04-14 15:59:52|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20070719!
+[2016-04-14 15:59:52|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20070802!
+[2016-04-14 15:59:52|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20070816!
+[2016-04-14 15:59:53|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20070830!
+[2016-04-14 15:59:53|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20070913!
+[2016-04-14 15:59:53|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20070927!
+[2016-04-14 15:59:53|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20071018!
+[2016-04-14 15:59:53|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20071101!
+[2016-04-14 15:59:53|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20071115!
+[2016-04-14 15:59:54|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20071129!
+[2016-04-14 15:59:54|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20071213!
+[2016-04-14 15:59:54|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20071227!
+[2016-04-14 15:59:54|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20080114!
+[2016-04-14 15:59:54|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20080128!
+[2016-04-14 15:59:55|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20080218!
+[2016-04-14 15:59:55|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20080303!
+[2016-04-14 15:59:55|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20080317!
+[2016-04-14 15:59:55|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20080331!
+[2016-04-14 15:59:55|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20080415!
+[2016-04-14 15:59:56|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20080429!
+[2016-04-14 15:59:56|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20080515!
+[2016-04-14 15:59:56|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20080529!
+[2016-04-14 15:59:56|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20080613!
+[2016-04-14 15:59:56|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20080627!
+[2016-04-14 15:59:56|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20080711!
+[2016-04-14 15:59:57|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20080725!
+[2016-04-14 15:59:57|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20080808!
+[2016-04-14 15:59:57|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20080822!
+[2016-04-14 15:59:57|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20080905!
+[2016-04-14 15:59:57|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20080922!
+[2016-04-14 15:59:58|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20081013!
+[2016-04-14 15:59:58|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20081027!
+[2016-04-14 15:59:58|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20081110!
+[2016-04-14 15:59:58|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20081124!
+[2016-04-14 15:59:58|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20081208!
+[2016-04-14 15:59:59|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20081222!
+[2016-04-14 15:59:59|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20090107!
+[2016-04-14 15:59:59|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20090121!
+[2016-04-14 15:59:59|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20090211!
+[2016-04-14 15:59:59|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20090225!
+[2016-04-14 15:59:59|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20090311!
+[2016-04-14 16:00:00|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20090325!
+[2016-04-14 16:00:00|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20090409!
+[2016-04-14 16:00:00|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20090423!
+[2016-04-14 16:00:00|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20090508!
+[2016-04-14 16:00:00|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20090522!
+[2016-04-14 16:00:01|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20090609!
+[2016-04-14 16:00:01|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20090623!
+[2016-04-14 16:00:01|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20090707!
+[2016-04-14 16:00:01|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20090721!
+[2016-04-14 16:00:01|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20090804!
+[2016-04-14 16:00:02|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20090818!
+[2016-04-14 16:00:02|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20090901!
+[2016-04-14 16:00:02|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20090915!
+[2016-04-14 16:00:02|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20090929!
+[2016-04-14 16:00:02|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20091021!
+[2016-04-14 16:00:03|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20091104!
+[2016-04-14 16:00:03|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20091118!
+[2016-04-14 16:00:03|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20091202!
+[2016-04-14 16:00:03|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20091216!
+[2016-04-14 16:00:03|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20091230!
+[2016-04-14 16:00:04|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20100114!
+[2016-04-14 16:00:04|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20100128!
+[2016-04-14 16:00:04|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20100211!
+[2016-04-14 16:00:04|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20100304!
+[2016-04-14 16:00:04|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20100318!
+[2016-04-14 16:00:04|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20100401!
+[2016-04-14 16:00:05|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20100416!
+[2016-04-14 16:00:05|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20100430!
+[2016-04-14 16:00:05|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20100517!
+[2016-04-14 16:00:05|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20100531!
+[2016-04-14 16:00:05|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20100617!
+[2016-04-14 16:00:06|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20100701!
+[2016-04-14 16:00:06|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20100715!
+[2016-04-14 16:00:06|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20100729!
+[2016-04-14 16:00:06|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20100812!
+[2016-04-14 16:00:06|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20100826!
+[2016-04-14 16:00:07|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20100909!
+[2016-04-14 16:00:07|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20100928!
+[2016-04-14 16:00:07|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20101019!
+[2016-04-14 16:00:07|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20101102!
+[2016-04-14 16:00:07|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20101116!
+[2016-04-14 16:00:07|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20101130!
+[2016-04-14 16:00:08|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20101214!
+[2016-04-14 16:00:08|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20101228!
+[2016-04-14 16:00:08|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20110112!
+[2016-04-14 16:00:08|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20110126!
+[2016-04-14 16:00:08|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20110216!
+[2016-04-14 16:00:09|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20110302!
+[2016-04-14 16:00:09|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20110316!
+[2016-04-14 16:00:09|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20110330!
+[2016-04-14 16:00:09|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20110415!
+[2016-04-14 16:00:09|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20110429!
+[2016-04-14 16:00:09|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20110516!
+[2016-04-14 16:00:10|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20110530!
+[2016-04-14 16:00:10|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20110614!
+[2016-04-14 16:00:10|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20110628!
+[2016-04-14 16:00:10|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20110712!
+[2016-04-14 16:00:10|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20110726!
+[2016-04-14 16:00:11|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20110809!
+[2016-04-14 16:00:11|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20110823!
+[2016-04-14 16:00:11|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20110906!
+[2016-04-14 16:00:11|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20110921!
+[2016-04-14 16:00:11|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20111012!
+[2016-04-14 16:00:11|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20111026!
+[2016-04-14 16:00:12|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20111109!
+[2016-04-14 16:00:12|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20111123!
+[2016-04-14 16:00:12|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20111207!
+[2016-04-14 16:00:12|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20111221!
+[2016-04-14 16:00:12|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20120106!
+[2016-04-14 16:00:13|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20120120!
+[2016-04-14 16:00:13|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20120210!
+[2016-04-14 16:00:13|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20120224!
+[2016-04-14 16:00:13|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20120309!
+[2016-04-14 16:00:13|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20120323!
+[2016-04-14 16:00:13|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20120411!
+[2016-04-14 16:00:14|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20120425!
+[2016-04-14 16:00:14|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20120511!
+[2016-04-14 16:00:14|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20120525!
+[2016-04-14 16:00:14|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20120608!
+[2016-04-14 16:00:14|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20120625!
+[2016-04-14 16:00:15|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20120709!
+[2016-04-14 16:00:15|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20120723!
+[2016-04-14 16:00:15|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20120806!
+[2016-04-14 16:00:15|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20120820!
+[2016-04-14 16:00:15|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20120903!
+[2016-04-14 16:00:16|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20120917!
+[2016-04-14 16:00:16|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20121008!
+[2016-04-14 16:00:16|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20121022!
+[2016-04-14 16:00:16|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20121105!
+[2016-04-14 16:00:16|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20121119!
+[2016-04-14 16:00:16|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20121203!
+[2016-04-14 16:00:17|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20121217!
+[2016-04-14 16:00:17|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20121231!
+[2016-04-14 16:00:17|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20130117!
+[2016-04-14 16:00:17|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20130131!
+[2016-04-14 16:00:17|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20130221!
+[2016-04-14 16:00:17|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20130307!
+[2016-04-14 16:00:18|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20130321!
+[2016-04-14 16:00:18|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20130408!
+[2016-04-14 16:00:18|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20130422!
+[2016-04-14 16:00:18|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20130509!
+[2016-04-14 16:00:18|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20130523!
+[2016-04-14 16:00:19|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20130606!
+[2016-04-14 16:00:19|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20130625!
+[2016-04-14 16:00:19|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20130709!
+[2016-04-14 16:00:19|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20130723!
+[2016-04-14 16:00:19|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20130806!
+[2016-04-14 16:00:20|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20130820!
+[2016-04-14 16:00:20|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20130903!
+[2016-04-14 16:00:20|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20130917!
+[2016-04-14 16:00:20|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20131010!
+[2016-04-14 16:00:20|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20131024!
+[2016-04-14 16:00:20|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20131107!
+[2016-04-14 16:00:21|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20131121!
+[2016-04-14 16:00:21|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20131205!
+[2016-04-14 16:00:21|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20131219!
+[2016-04-14 16:00:21|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20140103!
+[2016-04-14 16:00:21|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20140117!
+[2016-04-14 16:00:21|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20140207!
+[2016-04-14 16:00:22|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20140221!
+[2016-04-14 16:00:22|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20140307!
+[2016-04-14 16:00:22|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20140321!
+[2016-04-14 16:00:22|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20140404!
+[2016-04-14 16:00:22|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20140421!
+[2016-04-14 16:00:23|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20140507!
+[2016-04-14 16:00:23|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20140521!
+[2016-04-14 16:00:23|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20140605!
+[2016-04-14 16:00:23|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20140619!
+[2016-04-14 16:00:23|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20140703!
+[2016-04-14 16:00:23|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20140717!
+[2016-04-14 16:00:24|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20140731!
+[2016-04-14 16:00:24|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20140814!
+[2016-04-14 16:00:24|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20140828!
+[2016-04-14 16:00:24|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20140912!
+[2016-04-14 16:00:24|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20140926!
+[2016-04-14 16:00:24|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20141017!
+[2016-04-14 16:00:25|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20141031!
+[2016-04-14 16:00:25|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20141114!
+[2016-04-14 16:00:25|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20141128!
+[2016-04-14 16:00:25|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20141212!
+[2016-04-14 16:00:25|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20141226!
+[2016-04-14 16:00:26|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20150113!
+[2016-04-14 16:00:26|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20150127!
+[2016-04-14 16:00:26|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20150210!
+[2016-04-14 16:00:26|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20150303!
+[2016-04-14 16:00:26|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20150317!
+[2016-04-14 16:00:26|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20150331!
+[2016-04-14 16:00:27|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20150415!
+[2016-04-14 16:00:27|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20150429!
+[2016-04-14 16:00:27|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20150514!
+[2016-04-14 16:00:27|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20150528!
+[2016-04-14 16:00:27|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20150611!
+[2016-04-14 16:00:28|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20150626!
+[2016-04-14 16:00:28|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20150710!
+[2016-04-14 16:00:28|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20150724!
+[2016-04-14 16:00:28|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20150807!
+[2016-04-14 16:00:28|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20150821!
+[2016-04-14 16:00:29|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20150908!
+[2016-04-14 16:00:29|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20150922!
+[2016-04-14 16:00:29|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20151013!
+[2016-04-14 16:00:29|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20151027!
+[2016-04-14 16:00:29|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20151110!
+[2016-04-14 16:00:30|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20151124!
+[2016-04-14 16:00:30|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20151208!
+[2016-04-14 16:00:30|ConvertFactorValuesToZScores|INFO] <ConvertFactorValuesToZScores>-Convert factor to zscore at 20151222!
