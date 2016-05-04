@@ -12,7 +12,7 @@ from datetime import datetime,timedelta
 root = os.path.abspath("D:\\MyQuantLib\\")
 sys.path.append(root)
 import Tools.LogOutputHandler as LogHandler
-import FactorModel.GetHedgedPortfolioAndCalculateReturn.GetHedgedPortfolioBySingleFactor as modGetHedgedPort
+import FactorModel.EvaluateFactorByHedgedPortfolioReturn.GetHedgedPortfolioBySingleFactor as modGetHedgedPort
 
 
 #----------------------------------------------------------------------
@@ -29,10 +29,10 @@ def MainFunc():
     myLog.addHandler(ch)    
     
     #Database address
-    dbPathFactorValues = "Factor_399906_20D.db"
+    dbPathFactorValues = "Index_399906_21Day_Rebalance.db"
     dbPathMarketData = "MktData\\MktData_Wind_CICC.db"
     
-    begDate = "20100101"
+    begDate = "20070101"
     endDate = "20160101"
     
     #Initiate a GetHedgedPortfolioBySingleFactor object
@@ -42,9 +42,10 @@ def MainFunc():
 
     #Calculate hedged portfolio return
     factors = objGetHedgedPort.GetFactorNames()
-    for factor in factors:
-        objGetHedgedPort.CalculateHedgedPortfolioReturn(factor,"FactorValues","1","2",0.2,"DESC","Plot_HS300")
-    
+    #for factor in factors:
+    #    objGetHedgedPort.CalculateHedgedPortfolioReturn(factor,"FactorValues","0","2",0.2,"DESC","Plot_ZScores")
+    factor = "Size"
+    objGetHedgedPort.CalculateHedgedPortfolioReturn(factor,"FactorValues","0","2",0.2,"DESC","Plot_ZScores")
     
     
     

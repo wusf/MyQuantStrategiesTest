@@ -32,7 +32,7 @@ def MainFunc():
     objConvertToZScores = modConvertToZScores.ConvertFactorValuesToZScores(myLog)
     
     #Connect to local fundamental factor database
-    dbNameFactorValues = "Index_000300_10Day_Rebalance.db"
+    dbNameFactorValues = "Index_399906_20Day_Rebalance.db"
     objConvertToZScores.ConnectToFactorDatabase(dbNameFactorValues)
     
     #Get factor names and save them

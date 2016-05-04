@@ -14184,3 +14184,540 @@
 [2016-03-18 11:09:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0019998550415, fetch time:0.00200009346008, write time:0.0019998550415
 [2016-03-18 11:09:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Creating index...
 [2016-03-18 11:09:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Finished!
+[2016-04-26 11:33:49|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] SynchronizeDatabase.SyncDb load config file: 'DbInfo.cfg'
+[2016-04-26 11:33:49|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Set start date, get current date
+[2016-04-26 11:33:49|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Start date:20030101,Current date:20160426
+[2016-04-26 11:33:49|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Divide dates by month
+[2016-04-26 11:33:49|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] SynchronizeDatabase.SyncDb load config file: Configs//MktData_Wind_CICC.cfg
+[2016-04-26 11:33:49|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Connect remote database
+[2016-04-26 11:33:49|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] SynchronizeDatabase.ConnDb load config file: 'DbInfo.cfg'
+[2016-04-26 11:33:49|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Connecting to remote database: 'CICCWind'...
+[2016-04-26 11:33:49|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]   Server: '192.168.142.83:1521/van'
+[2016-04-26 11:33:49|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]   Username: 'fid'
+[2016-04-26 11:33:49|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]   Password: 'fidrdwd'
+[2016-04-26 11:36:14|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] SynchronizeDatabase.SyncDb load config file: 'DbInfo.cfg'
+[2016-04-26 11:36:14|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Set start date, get current date
+[2016-04-26 11:36:14|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Start date:20030101,Current date:20160426
+[2016-04-26 11:36:14|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Divide dates by month
+[2016-04-26 11:36:14|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] SynchronizeDatabase.SyncDb load config file: Configs//MktData_Wind_CICC.cfg
+[2016-04-26 11:36:14|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Connect remote database
+[2016-04-26 11:36:14|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] SynchronizeDatabase.ConnDb load config file: 'DbInfo.cfg'
+[2016-04-26 11:36:14|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Connecting to remote database: 'CICCWind'...
+[2016-04-26 11:36:14|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]   Server: '192.168.142.83:1521/van'
+[2016-04-26 11:36:14|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]   Username: 'fid'
+[2016-04-26 11:36:14|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]   Password: 'fidrdwd'
+[2016-04-26 11:36:30|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] SynchronizeDatabase.SyncDb load config file: 'DbInfo.cfg'
+[2016-04-26 11:36:30|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Set start date, get current date
+[2016-04-26 11:36:30|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Start date:20030101,Current date:20160426
+[2016-04-26 11:36:30|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Divide dates by month
+[2016-04-26 11:36:30|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] SynchronizeDatabase.SyncDb load config file: Configs//MktData_Wind_CICC.cfg
+[2016-04-26 11:36:30|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Connect remote database
+[2016-04-26 11:36:30|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] SynchronizeDatabase.ConnDb load config file: 'DbInfo.cfg'
+[2016-04-26 11:36:30|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Connecting to remote database: 'CICCWind'...
+[2016-04-26 11:36:30|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]   Server: '192.168.142.83:1521/van'
+[2016-04-26 11:36:30|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]   Username: 'fid'
+[2016-04-26 11:36:30|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]   Password: 'fidrdwd'
+[2016-04-26 11:37:00|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] SynchronizeDatabase.SyncDb load config file: 'DbInfo.cfg'
+[2016-04-26 11:37:00|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Set start date, get current date
+[2016-04-26 11:37:00|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Start date:20030101,Current date:20160426
+[2016-04-26 11:37:00|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Divide dates by month
+[2016-04-26 11:37:00|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] SynchronizeDatabase.SyncDb load config file: Configs//MktData_Wind_CICC.cfg
+[2016-04-26 11:37:00|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Connect remote database
+[2016-04-26 11:37:00|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] SynchronizeDatabase.ConnDb load config file: 'DbInfo.cfg'
+[2016-04-26 11:37:00|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Connecting to remote database: 'CICCWind'...
+[2016-04-26 11:37:00|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]   Server: '192.168.142.83:1521/van'
+[2016-04-26 11:37:00|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]   Username: 'fid'
+[2016-04-26 11:37:00|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]   Password: 'fidrdwd'
+[2016-04-26 11:37:00|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Successfully connected!
+[2016-04-26 11:37:00|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Check remote database...
+[2016-04-26 11:37:00|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Check remote table: 'WINDDB.TB_OBJECT_1084'('MarketCap')
+[2016-04-26 11:37:00|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Connecting to local database 'MktData\MktData_Wind_CICC.db'
+[2016-04-26 11:37:00|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Check local database...
+[2016-04-26 11:37:00|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Check local table: 'MarketCap'
+[2016-04-26 11:37:00|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Syncronizing...
+[2016-04-26 11:37:00|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Create local table: MarketCap
+[2016-04-26 11:37:00|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]   Update table:WINDDB.TB_OBJECT_1084
+[2016-04-26 11:37:00|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20030101 to 20030131
+[2016-04-26 11:37:04|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.200999975204, fetch time:3.90100002289, write time:0.00100016593933
+[2016-04-26 11:37:04|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20030201 to 20030230
+[2016-04-26 11:37:05|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00499987602234, fetch time:0.131999969482, write time:0.00100016593933
+[2016-04-26 11:37:05|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20030301 to 20030331
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] SynchronizeDatabase.SyncDb load config file: 'DbInfo.cfg'
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Set start date, get current date
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Start date:20030101,Current date:20160426
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Divide dates by month
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] SynchronizeDatabase.SyncDb load config file: Configs//MktData_Wind_CICC.cfg
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Connect remote database
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] SynchronizeDatabase.ConnDb load config file: 'DbInfo.cfg'
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Connecting to remote database: 'CICCWind'...
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]   Server: '192.168.142.83:1521/van'
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]   Username: 'fid'
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]   Password: 'fidrdwd'
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0350000858307, fetch time:1.34799981117, write time:0.00100016593933
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20030401 to 20030430
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Successfully connected!
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Check remote database...
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Check remote table: 'WINDDB.TB_OBJECT_1084'('MarketCap')
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Connecting to local database 'MktData\MktData_Wind_CICC.db'
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Check local database...
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Check local table: 'MarketCap'
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Syncronizing...
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Create local table: MarketCap
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]   Update table:WINDDB.TB_OBJECT_1084
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20030101 to 20030131
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.029000043869, write time:0.00300002098083
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20030201 to 20030230
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00200009346008, fetch time:0.0130000114441, write time:0.00300002098083
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20030301 to 20030331
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00200009346008, fetch time:0.0149998664856, write time:0.00100016593933
+[2016-04-26 11:37:06|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20030401 to 20030430
+[2016-04-26 11:37:08|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00300002098083, fetch time:1.73300004005, write time:0.0019998550415
+[2016-04-26 11:37:08|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20030501 to 20030531
+[2016-04-26 11:37:08|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0019998550415, fetch time:1.45700001717, write time:0.00200009346008
+[2016-04-26 11:37:08|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20030501 to 20030531
+[2016-04-26 11:37:08|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.323999881744, write time:0.00200009346008
+[2016-04-26 11:37:08|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20030601 to 20030630
+[2016-04-26 11:37:08|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0019998550415, fetch time:0.328999996185, write time:0.00100016593933
+[2016-04-26 11:37:08|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20030601 to 20030630
+[2016-04-26 11:37:08|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00699996948242, fetch time:0.465000152588, write time:0.000999927520752
+[2016-04-26 11:37:08|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20030701 to 20030831
+[2016-04-26 11:37:08|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0019998550415, fetch time:0.469000101089, write time:0.000999927520752
+[2016-04-26 11:37:08|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20030701 to 20030831
+[2016-04-26 11:37:09|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.000999927520752, fetch time:1.02099990845, write time:0.00200009346008
+[2016-04-26 11:37:09|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20030801 to 20030831
+[2016-04-26 11:37:09|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00699996948242, fetch time:0.0130000114441, write time:0.000999927520752
+[2016-04-26 11:37:09|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20030901 to 20030930
+[2016-04-26 11:37:10|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00699996948242, fetch time:0.282999992371, write time:0.000999927520752
+[2016-04-26 11:37:10|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20031001 to 20031031
+[2016-04-26 11:37:10|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00400018692017, fetch time:0.15299987793, write time:0.000999927520752
+[2016-04-26 11:37:10|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20031101 to 20031130
+[2016-04-26 11:37:10|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00499987602234, fetch time:0.207000017166, write time:0.00100016593933
+[2016-04-26 11:37:10|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20031201 to 20031231
+[2016-04-26 11:37:11|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.588999986649, write time:0.00200009346008
+[2016-04-26 11:37:11|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20040101 to 20040131
+[2016-04-26 11:37:11|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00499987602234, fetch time:0.0900001525879, write time:0.000999927520752
+[2016-04-26 11:37:11|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20040201 to 20040230
+[2016-04-26 11:37:11|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00300002098083, fetch time:0.157999992371, write time:0.000999927520752
+[2016-04-26 11:37:11|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20040301 to 20040331
+[2016-04-26 11:37:11|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00300002098083, fetch time:0.235999822617, write time:0.00200009346008
+[2016-04-26 11:37:11|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20040401 to 20040430
+[2016-04-26 11:37:12|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00300002098083, fetch time:0.255000114441, write time:0.0019998550415
+[2016-04-26 11:37:12|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20040501 to 20040531
+[2016-04-26 11:37:12|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.264999866486, write time:0.00200009346008
+[2016-04-26 11:37:12|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20040601 to 20040630
+[2016-04-26 11:37:12|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00400018692017, fetch time:0.139999866486, write time:0.00600004196167
+[2016-04-26 11:37:12|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20040701 to 20040831
+[2016-04-26 11:37:12|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.226000070572, write time:0.00399994850159
+[2016-04-26 11:37:12|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20040801 to 20040831
+[2016-04-26 11:37:12|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00400018692017, fetch time:0.0139999389648, write time:0.000999927520752
+[2016-04-26 11:37:12|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20040901 to 20040930
+[2016-04-26 11:37:12|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.0190000534058, write time:0.000999927520752
+[2016-04-26 11:37:12|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20041001 to 20041031
+[2016-04-26 11:37:12|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00400018692017, fetch time:0.125999927521, write time:0.00200009346008
+[2016-04-26 11:37:12|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20041101 to 20041130
+[2016-04-26 11:37:12|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.0279998779297, write time:0.00300002098083
+[2016-04-26 11:37:12|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20041201 to 20041231
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.246999979019, write time:0.0019998550415
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20050101 to 20050131
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00300002098083, fetch time:0.0260000228882, write time:0.000999927520752
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20050201 to 20050230
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0279998779297, fetch time:0.0720000267029, write time:0.00100016593933
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20050301 to 20050331
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00300002098083, fetch time:0.0160000324249, write time:0.000999927520752
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20050401 to 20050430
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00300002098083, fetch time:0.0269999504089, write time:0.00100016593933
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20050501 to 20050531
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00300002098083, fetch time:0.0550000667572, write time:0.0019998550415
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20050601 to 20050630
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.0329999923706, write time:0.00399994850159
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20050701 to 20050831
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00400018692017, fetch time:0.0349998474121, write time:0.00200009346008
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20050801 to 20050831
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.0150001049042, write time:0.0019998550415
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20050901 to 20050930
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00400018692017, fetch time:0.0260000228882, write time:0.00399994850159
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20051001 to 20051031
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00300002098083, fetch time:0.0720000267029, write time:0.00200009346008
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20051101 to 20051130
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.0269999504089, write time:0.00200009346008
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20051201 to 20051231
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.058000087738, write time:0.00200009346008
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20060101 to 20060131
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.0390000343323, write time:0.00200009346008
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20060201 to 20060230
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.109999895096, write time:0.00200009346008
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20060301 to 20060331
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00500011444092, fetch time:0.0869998931885, write time:0.00300002098083
+[2016-04-26 11:37:13|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20060401 to 20060430
+[2016-04-26 11:37:14|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00300002098083, fetch time:0.15900015831, write time:0.00299978256226
+[2016-04-26 11:37:14|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20060501 to 20060531
+[2016-04-26 11:37:14|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00800013542175, fetch time:0.195999860764, write time:0.00300002098083
+[2016-04-26 11:37:14|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20060601 to 20060630
+[2016-04-26 11:37:14|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00400018692017, fetch time:0.0849997997284, write time:0.00300002098083
+[2016-04-26 11:37:14|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20060701 to 20060831
+[2016-04-26 11:37:14|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00300002098083, fetch time:0.371999979019, write time:0.00499987602234
+[2016-04-26 11:37:14|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20060801 to 20060831
+[2016-04-26 11:37:14|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00299978256226, fetch time:0.018000125885, write time:0.0019998550415
+[2016-04-26 11:37:14|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20060901 to 20060930
+[2016-04-26 11:37:14|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.0199999809265, write time:0.00200009346008
+[2016-04-26 11:37:14|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20061001 to 20061031
+[2016-04-26 11:37:15|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.15700006485, write time:0.00200009346008
+[2016-04-26 11:37:15|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20061101 to 20061130
+[2016-04-26 11:37:15|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.0599999427795, write time:0.00200009346008
+[2016-04-26 11:37:15|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20061201 to 20061231
+[2016-04-26 11:37:15|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00499987602234, fetch time:0.155000209808, write time:0.00799989700317
+[2016-04-26 11:37:15|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20070101 to 20070131
+[2016-04-26 11:37:15|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00400018692017, fetch time:0.298999786377, write time:0.00200009346008
+[2016-04-26 11:37:15|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20070201 to 20070230
+[2016-04-26 11:37:15|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00500011444092, fetch time:0.0309998989105, write time:0.00200009346008
+[2016-04-26 11:37:15|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20070301 to 20070331
+[2016-04-26 11:37:15|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.047000169754, write time:0.00300002098083
+[2016-04-26 11:37:15|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20070401 to 20070430
+[2016-04-26 11:37:15|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00499987602234, fetch time:0.248000144958, write time:0.00300002098083
+[2016-04-26 11:37:15|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20070501 to 20070531
+[2016-04-26 11:37:15|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00799989700317, fetch time:0.0480000972748, write time:0.00399994850159
+[2016-04-26 11:37:15|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20070601 to 20070630
+[2016-04-26 11:37:16|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00800013542175, fetch time:0.0809998512268, write time:0.00400018692017
+[2016-04-26 11:37:16|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20070701 to 20070831
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] SynchronizeDatabase.SyncDb load config file: 'DbInfo.cfg'
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Set start date, get current date
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Start date:20030101,Current date:20160426
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Divide dates by month
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] SynchronizeDatabase.SyncDb load config file: Configs//MktData_Wind_CICC.cfg
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Connect remote database
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] SynchronizeDatabase.ConnDb load config file: 'DbInfo.cfg'
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Connecting to remote database: 'CICCWind'...
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]   Server: '192.168.142.83:1521/van'
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]   Username: 'fid'
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]   Password: 'fidrdwd'
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Successfully connected!
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Check remote database...
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Check remote table: 'WINDDB.TB_OBJECT_1084'('MarketCap')
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Connecting to local database 'MktData\MktData_Wind_CICC.db'
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Check local database...
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Check local table: 'MarketCap'
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Syncronizing...
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Create local table: MarketCap
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]   Update table:WINDDB.TB_OBJECT_1084
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20030101 to 20030131
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.0299999713898, write time:0.00200009346008
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20030201 to 20030230
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00200009346008, fetch time:0.0130000114441, write time:0.000999927520752
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20030301 to 20030331
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.000999927520752, fetch time:0.0140001773834, write time:0.000999927520752
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20030401 to 20030430
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00200009346008, fetch time:0.0179998874664, write time:0.000999927520752
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20030501 to 20030531
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0019998550415, fetch time:0.0130000114441, write time:0.00200009346008
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20030601 to 20030630
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0019998550415, fetch time:0.0150001049042, write time:0.00200009346008
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20030701 to 20030831
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0019998550415, fetch time:0.0140001773834, write time:0.0019998550415
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20030801 to 20030831
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00200009346008, fetch time:0.00999999046326, write time:0.000999927520752
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20030901 to 20030930
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00200009346008, fetch time:0.010999917984, write time:0.00100016593933
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20031001 to 20031031
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.000999927520752, fetch time:0.0120000839233, write time:0.000999927520752
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20031101 to 20031130
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00200009346008, fetch time:0.010999917984, write time:0.000999927520752
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20031201 to 20031231
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00200009346008, fetch time:0.0150001049042, write time:0.0019998550415
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20040101 to 20040131
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00200009346008, fetch time:0.010999917984, write time:0.000999927520752
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20040201 to 20040230
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00200009346008, fetch time:0.00999999046326, write time:0.000999927520752
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20040301 to 20040331
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.000999927520752, fetch time:0.0120000839233, write time:0.0019998550415
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20040401 to 20040430
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00100016593933, fetch time:0.0139999389648, write time:0.0019998550415
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20040501 to 20040531
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00200009346008, fetch time:0.0139999389648, write time:0.00200009346008
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20040601 to 20040630
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00100016593933, fetch time:0.0159997940063, write time:0.00300002098083
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20040701 to 20040831
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00200009346008, fetch time:0.0139999389648, write time:0.00200009346008
+[2016-04-26 11:37:32|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20040801 to 20040831
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.000999927520752, fetch time:0.0120000839233, write time:0.000999927520752
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20040901 to 20040930
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.000999927520752, fetch time:0.0139999389648, write time:0.00100016593933
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20041001 to 20041031
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0019998550415, fetch time:0.010999917984, write time:0.00100016593933
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20041101 to 20041130
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.000999927520752, fetch time:0.0090000629425, write time:0.000999927520752
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20041201 to 20041231
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.000999927520752, fetch time:0.0139999389648, write time:0.00200009346008
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20050101 to 20050131
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.000999927520752, fetch time:0.0100002288818, write time:0.000999927520752
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20050201 to 20050230
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0019998550415, fetch time:0.00999999046326, write time:0.0
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20050301 to 20050331
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.000999927520752, fetch time:0.010999917984, write time:0.00100016593933
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20050401 to 20050430
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0019998550415, fetch time:0.0110001564026, write time:0.000999927520752
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20050501 to 20050531
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00200009346008, fetch time:0.0119998455048, write time:0.00200009346008
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20050601 to 20050630
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0019998550415, fetch time:0.0170001983643, write time:0.0019998550415
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20050701 to 20050831
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.000999927520752, fetch time:0.0149998664856, write time:0.00200009346008
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20050801 to 20050831
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00200009346008, fetch time:0.0130000114441, write time:0.000999927520752
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20050901 to 20050930
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0019998550415, fetch time:0.0120000839233, write time:0.000999927520752
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20051001 to 20051031
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.000999927520752, fetch time:0.00999999046326, write time:0.00200009346008
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20051101 to 20051130
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0019998550415, fetch time:0.0110001564026, write time:0.0019998550415
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20051201 to 20051231
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00200009346008, fetch time:0.0139999389648, write time:0.00200009346008
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20060101 to 20060131
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.000999927520752, fetch time:0.0120000839233, write time:0.00200009346008
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20060201 to 20060230
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.000999927520752, fetch time:0.0130000114441, write time:0.00200009346008
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20060301 to 20060331
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00200009346008, fetch time:0.0169999599457, write time:0.00300002098083
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20060401 to 20060430
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0019998550415, fetch time:0.0170001983643, write time:0.00299978256226
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20060501 to 20060531
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0019998550415, fetch time:0.0170001983643, write time:0.00299978256226
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20060601 to 20060630
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.000999927520752, fetch time:0.0190000534058, write time:0.00399994850159
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20060701 to 20060831
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.000999927520752, fetch time:0.0230000019073, write time:0.00400018692017
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20060801 to 20060831
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.000999927520752, fetch time:0.0160000324249, write time:0.101000070572
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20060901 to 20060930
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00200009346008, fetch time:0.0169999599457, write time:0.00300002098083
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20061001 to 20061031
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0019998550415, fetch time:0.0150001049042, write time:0.0090000629425
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20061101 to 20061130
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00200009346008, fetch time:0.0159997940063, write time:0.00200009346008
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20061201 to 20061231
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00200009346008, fetch time:0.0199999809265, write time:0.00399994850159
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20070101 to 20070131
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0019998550415, fetch time:0.0169999599457, write time:0.00200009346008
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20070201 to 20070230
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00200009346008, fetch time:0.0130000114441, write time:0.00300002098083
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20070301 to 20070331
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0019998550415, fetch time:0.0150001049042, write time:0.00300002098083
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20070401 to 20070430
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00200009346008, fetch time:0.0189998149872, write time:0.00300002098083
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20070501 to 20070531
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0019998550415, fetch time:0.0199999809265, write time:0.00300002098083
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20070601 to 20070630
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0019998550415, fetch time:0.0199999809265, write time:0.00399994850159
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20070701 to 20070831
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00200009346008, fetch time:0.0460000038147, write time:0.00600004196167
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20070801 to 20070831
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00600004196167, fetch time:0.0169999599457, write time:0.0019998550415
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20070901 to 20070930
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00300002098083, fetch time:0.0709998607635, write time:0.00300002098083
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20071001 to 20071031
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00500011444092, fetch time:0.0329999923706, write time:0.0019998550415
+[2016-04-26 11:37:33|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20071101 to 20071130
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00499987602234, fetch time:0.0570001602173, write time:0.00299978256226
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20071201 to 20071231
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00499987602234, fetch time:0.0599999427795, write time:0.007000207901
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20080101 to 20080131
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00499987602234, fetch time:0.0190000534058, write time:0.00300002098083
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20080201 to 20080230
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00500011444092, fetch time:0.0329999923706, write time:0.0019998550415
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20080301 to 20080331
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.0169999599457, write time:0.00300002098083
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20080401 to 20080430
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.0230000019073, write time:0.00400018692017
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20080501 to 20080531
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.0239999294281, write time:0.00400018692017
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20080601 to 20080630
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.0260000228882, write time:0.00600004196167
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20080701 to 20080831
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.0410001277924, write time:0.00600004196167
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20080801 to 20080831
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.0160000324249, write time:0.00300002098083
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20080901 to 20080930
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.0190000534058, write time:0.00200009346008
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20081001 to 20081031
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00499987602234, fetch time:0.0140001773834, write time:0.00399994850159
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20081101 to 20081130
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.0140001773834, write time:0.0019998550415
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20081201 to 20081231
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.0230000019073, write time:0.00600004196167
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20090101 to 20090131
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00499987602234, fetch time:0.0130000114441, write time:0.00200009346008
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20090201 to 20090230
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00399994850159, fetch time:0.0210001468658, write time:0.0019998550415
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20090301 to 20090331
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00500011444092, fetch time:0.0160000324249, write time:0.00300002098083
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20090401 to 20090430
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00499987602234, fetch time:0.0169999599457, write time:0.00300002098083
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20090501 to 20090531
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00500011444092, fetch time:0.0179998874664, write time:0.00300002098083
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20090601 to 20090630
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00500011444092, fetch time:0.0269999504089, write time:0.00600004196167
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20090701 to 20090831
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00499987602234, fetch time:0.0880000591278, write time:0.00500011444092
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20090801 to 20090831
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00499987602234, fetch time:0.018000125885, write time:0.000999927520752
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20090901 to 20090930
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00500011444092, fetch time:0.0199999809265, write time:0.00300002098083
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20091001 to 20091031
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00499987602234, fetch time:0.0299999713898, write time:0.00200009346008
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20091101 to 20091130
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00600004196167, fetch time:0.100000143051, write time:0.0019998550415
+[2016-04-26 11:37:34|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20091201 to 20091231
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00500011444092, fetch time:0.069000005722, write time:0.010999917984
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20100101 to 20100131
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00599980354309, fetch time:0.0270001888275, write time:0.0019998550415
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20100201 to 20100230
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00599980354309, fetch time:0.0759999752045, write time:0.00200009346008
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20100301 to 20100331
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00600004196167, fetch time:0.0369999408722, write time:0.00400018692017
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20100401 to 20100430
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00600004196167, fetch time:0.021999835968, write time:0.00400018692017
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20100501 to 20100531
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00999999046326, fetch time:0.0209999084473, write time:0.00400018692017
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20100601 to 20100630
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00799989700317, fetch time:0.0640001296997, write time:0.00799989700317
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20100701 to 20100831
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00699996948242, fetch time:0.0550000667572, write time:0.00600004196167
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20100801 to 20100831
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00600004196167, fetch time:0.0149998664856, write time:0.00200009346008
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20100901 to 20100930
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00600004196167, fetch time:0.0679998397827, write time:0.0090000629425
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20101001 to 20101031
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00600004196167, fetch time:0.0360000133514, write time:0.0019998550415
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20101101 to 20101130
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.007000207901, fetch time:0.0379998683929, write time:0.00300002098083
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20101201 to 20101231
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00699996948242, fetch time:0.0550000667572, write time:0.00699996948242
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20110101 to 20110131
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00600004196167, fetch time:0.0209999084473, write time:0.00300002098083
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20110201 to 20110230
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00699996948242, fetch time:0.0640001296997, write time:0.0019998550415
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20110301 to 20110331
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00799989700317, fetch time:0.018000125885, write time:0.00399994850159
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20110401 to 20110430
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00600004196167, fetch time:0.0469999313354, write time:0.00399994850159
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20110501 to 20110531
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.007000207901, fetch time:0.0230000019073, write time:0.00599980354309
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20110601 to 20110630
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00999999046326, fetch time:0.0450000762939, write time:0.00699996948242
+[2016-04-26 11:37:35|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20110701 to 20110831
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.007000207901, fetch time:0.0879998207092, write time:0.00500011444092
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20110801 to 20110831
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00699996948242, fetch time:0.0150001049042, write time:0.0019998550415
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20110901 to 20110930
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.007000207901, fetch time:0.0159997940063, write time:0.00300002098083
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20111001 to 20111031
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.007000207901, fetch time:0.0139999389648, write time:0.0019998550415
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20111101 to 20111130
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.007000207901, fetch time:0.0889999866486, write time:0.0019998550415
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20111201 to 20111231
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.007000207901, fetch time:0.0239999294281, write time:0.00799989700317
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20120101 to 20120131
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00800013542175, fetch time:0.0249998569489, write time:0.00300002098083
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20120201 to 20120230
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00800013542175, fetch time:0.0649998188019, write time:0.00300002098083
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20120301 to 20120331
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00699996948242, fetch time:0.0269999504089, write time:0.00300002098083
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20120401 to 20120430
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00699996948242, fetch time:0.0420000553131, write time:0.00800013542175
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20120501 to 20120531
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00799989700317, fetch time:0.0209999084473, write time:0.00600004196167
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20120601 to 20120630
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00699996948242, fetch time:0.050999879837, write time:0.00800013542175
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20120701 to 20120831
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00699996948242, fetch time:0.029000043869, write time:0.00499987602234
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20120801 to 20120831
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00799989700317, fetch time:0.0120000839233, write time:0.0019998550415
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20120901 to 20120930
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00699996948242, fetch time:0.021999835968, write time:0.00300002098083
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20121001 to 20121031
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00699996948242, fetch time:0.0510001182556, write time:0.00200009346008
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20121101 to 20121130
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00799989700317, fetch time:0.0759999752045, write time:0.00300002098083
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20121201 to 20121231
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0090000629425, fetch time:0.0510001182556, write time:0.00799989700317
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20130101 to 20130131
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00800013542175, fetch time:0.0149998664856, write time:0.00300002098083
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20130201 to 20130230
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00800013542175, fetch time:0.010999917984, write time:0.00200009346008
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20130301 to 20130331
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00699996948242, fetch time:0.0120000839233, write time:0.00399994850159
+[2016-04-26 11:37:36|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20130401 to 20130430
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00799989700317, fetch time:0.0120000839233, write time:0.00399994850159
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20130501 to 20130531
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00800013542175, fetch time:0.0299999713898, write time:0.00699996948242
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20130601 to 20130630
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0090000629425, fetch time:0.0279998779297, write time:0.010999917984
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20130701 to 20130831
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00799989700317, fetch time:0.0700001716614, write time:0.00499987602234
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20130801 to 20130831
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00800013542175, fetch time:0.0119998455048, write time:0.00100016593933
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20130901 to 20130930
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00799989700317, fetch time:0.0140001773834, write time:0.00300002098083
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20131001 to 20131031
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00699996948242, fetch time:0.010999917984, write time:0.00200009346008
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20131101 to 20131130
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00800013542175, fetch time:0.0130000114441, write time:0.00300002098083
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20131201 to 20131231
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00799989700317, fetch time:0.0499999523163, write time:0.0090000629425
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20140101 to 20140131
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00800013542175, fetch time:0.286000013351, write time:0.00499987602234
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20140201 to 20140230
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00999999046326, fetch time:0.0110001564026, write time:0.00299978256226
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20140301 to 20140331
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00800013542175, fetch time:0.0130000114441, write time:0.00399994850159
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20140401 to 20140430
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00799989700317, fetch time:0.0490000247955, write time:0.00400018692017
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20140501 to 20140531
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00999999046326, fetch time:0.0299999713898, write time:0.00500011444092
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20140601 to 20140630
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0090000629425, fetch time:0.0720000267029, write time:0.0119998455048
+[2016-04-26 11:37:37|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20140701 to 20140831
+[2016-04-26 11:37:38|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00999999046326, fetch time:0.131999969482, write time:0.00600004196167
+[2016-04-26 11:37:38|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20140801 to 20140831
+[2016-04-26 11:37:38|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0090000629425, fetch time:0.0130000114441, write time:0.00300002098083
+[2016-04-26 11:37:38|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20140901 to 20140930
+[2016-04-26 11:37:38|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00799989700317, fetch time:0.0190000534058, write time:0.00600004196167
+[2016-04-26 11:37:38|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20141001 to 20141031
+[2016-04-26 11:37:38|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00899982452393, fetch time:0.0410001277924, write time:0.00300002098083
+[2016-04-26 11:37:38|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20141101 to 20141130
+[2016-04-26 11:37:38|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00999999046326, fetch time:0.050999879837, write time:0.00400018692017
+[2016-04-26 11:37:38|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20141201 to 20141231
+[2016-04-26 11:37:38|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00600004196167, fetch time:0.0839998722076, write time:0.0110001564026
+[2016-04-26 11:37:38|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20150101 to 20150131
+[2016-04-26 11:37:38|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.010999917984, fetch time:0.0680000782013, write time:0.00399994850159
+[2016-04-26 11:37:38|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20150201 to 20150230
+[2016-04-26 11:37:38|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.010999917984, fetch time:0.047000169754, write time:0.00399994850159
+[2016-04-26 11:37:38|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20150301 to 20150331
+[2016-04-26 11:37:38|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0130000114441, fetch time:0.0539999008179, write time:0.00500011444092
+[2016-04-26 11:37:38|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20150401 to 20150430
+[2016-04-26 11:37:38|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0110001564026, fetch time:0.0799999237061, write time:0.00999999046326
+[2016-04-26 11:37:38|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20150501 to 20150531
+[2016-04-26 11:37:38|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.00999999046326, fetch time:0.0550000667572, write time:0.00799989700317
+[2016-04-26 11:37:38|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20150601 to 20150630
+[2016-04-26 11:37:38|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.010999917984, fetch time:0.0820000171661, write time:0.0220000743866
+[2016-04-26 11:37:38|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20150701 to 20150831
+[2016-04-26 11:37:39|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.010999917984, fetch time:0.218000173569, write time:0.0169999599457
+[2016-04-26 11:37:39|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20150801 to 20150831
+[2016-04-26 11:37:39|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0130000114441, fetch time:0.0139999389648, write time:0.00300002098083
+[2016-04-26 11:37:39|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20150901 to 20150930
+[2016-04-26 11:37:39|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0119998455048, fetch time:0.108000040054, write time:0.00699996948242
+[2016-04-26 11:37:39|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20151001 to 20151031
+[2016-04-26 11:37:39|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0130000114441, fetch time:0.0880000591278, write time:0.00300002098083
+[2016-04-26 11:37:39|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20151101 to 20151130
+[2016-04-26 11:37:39|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0110001564026, fetch time:0.121999979019, write time:0.00600004196167
+[2016-04-26 11:37:39|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20151201 to 20151231
+[2016-04-26 11:37:39|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0119998455048, fetch time:0.144999980927, write time:0.018000125885
+[2016-04-26 11:37:39|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20160101 to 20160131
+[2016-04-26 11:37:39|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0130000114441, fetch time:0.0469999313354, write time:0.00600004196167
+[2016-04-26 11:37:39|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20160201 to 20160230
+[2016-04-26 11:37:39|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0139999389648, fetch time:0.0430002212524, write time:0.00399994850159
+[2016-04-26 11:37:39|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20160301 to 20160331
+[2016-04-26 11:37:39|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0149998664856, fetch time:0.180999994278, write time:0.00600004196167
+[2016-04-26 11:37:39|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO]     From 20160401 to 20160426
+[2016-04-26 11:37:40|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Read time:0.0140001773834, fetch time:0.0859999656677, write time:0.00499987602234
+[2016-04-26 11:37:40|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Creating index...
+[2016-04-26 11:37:40|SynchronizeDatabase.Db_Wind_CICC.SyncMktData|INFO] Finished!

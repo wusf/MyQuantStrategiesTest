@@ -44,17 +44,21 @@ def MainFunc():
     #print factors[0]
     tm1 = time.time()
 
-    objComputeICs.GetZScores("ZScores","1,2","20120723",'2')
+    #objComputeICs.GetZScores("ZScores","1,2","20120723",'2')
     #print objComputeICs.zscores
     #print objComputeICs.zscoresDay
     
-    objComputeICs.GetStockReturn(1,20)
+    #objComputeICs.GetStockReturn(1,20)
     
-    print factors
-    for fct in factors:
-        objComputeICs.ComputeIC(fct)
-    tm2 = time.time()
-    print tm2-tm1
+    #print factors
+    #for fct in factors:
+    #    objComputeICs.ComputeIC(fct)
+    #tm2 = time.time()
+    #print tm2-tm1
+    
+    #objComputeICs.ComputeICsAndSave("ZScores","HS300",'2',[1,5],[1,10],[1,15],[1,20],[1,30],[1,40],[1,50])
+    
+    objComputeICs.ExploreICDecay("FactorICs_HS300","20100304","20151013",[5,10,15,20,30,40,50])
     
 #----------------------------------------------------------------------
 if __name__ == "__main__":

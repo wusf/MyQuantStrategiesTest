@@ -7,12 +7,12 @@
 """
 
 import os,sys,logging,time,decimal,codecs,numpy,re,sqlite3
-from datetime import datetime,timedelta
 
-root = os.path.abspath("D:\\MyQuantLib\\")
+
+root = os.path.abspath("D:\\PyQuantLib\\")
 sys.path.append(root)
 import Tools.LogOutputHandler as LogHandler
-import FactorModel.ComputeFundamentalFactors.ComputeFactorValues as modComputeFactor
+import UpdateFactorDatabase.FundamentalFactors.ComputeFactorValues as modComputeFactor
 
 #----------------------------------------------------------------------
 def MainFunc():
@@ -37,18 +37,14 @@ def MainFunc():
     objComputeFactor.LoadSourceData(dbPathFdmtData,dbPathMktData,dbPathConstituentStocks)
     
     #Set stock universe and rebalance date
-    stockUnviverIndex = "399906"
     begDate = "20070101"
-    endDate = "20160101"
-    holdingPeriod = 21
-    objComputeFactor.SetStockUniverseAndFactorReCalcDate(stockUnviverIndex,begDate,endDate,holdingPeriod)
     
     #Load factor algorithem
-    factorStyle = ["Technical"] #["Growth","Momentum","Profitability","Quality","Risk","Value"]
+    factorStyle = ["Growth","Profitability","Quality","Risk","Value"]
     objComputeFactor.LoadFactorAlgos(factorStyle)
     
     #Start to run factor computation
-    objComputeFactor.ComputeAndSaveFactorValues()
+    objComputeFactor.ComputeAndSaveFactorValues("TestFctorDatabase",begDate)
     
     #objComputeFactor.ComputeAndSaveZScores("Industry.cfg","SW1_ZZ500")
     

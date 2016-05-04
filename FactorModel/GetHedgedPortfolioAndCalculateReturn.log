@@ -8,3 +8,142 @@
 [2016-04-07 17:29:54|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
 [2016-04-07 17:34:16|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
 [2016-04-07 17:34:31|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
+[2016-04-21 16:09:31|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-21 16:09:42|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-21 16:09:57|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
+[2016-04-21 16:13:12|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-21 16:13:27|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
+[2016-04-21 16:13:39|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-21 16:13:55|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
+[2016-04-21 16:16:15|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-21 16:16:31|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
+[2016-04-25 14:40:47|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-25 14:41:07|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
+[2016-04-25 14:43:45|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-25 14:44:05|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
+[2016-04-25 14:47:06|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-25 14:47:26|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
+[2016-04-25 16:21:14|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-25 16:21:34|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
+[2016-04-25 16:25:30|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-25 16:25:50|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
+[2016-04-25 16:26:35|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-25 16:26:55|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
+[2016-04-25 16:28:42|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-25 16:29:02|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
+[2016-04-25 16:57:38|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-25 16:58:08|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-25 16:58:28|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
+[2016-04-26 09:35:33|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-26 09:35:52|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
+[2016-04-26 09:59:05|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-26 09:59:25|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
+[2016-04-26 10:04:01|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-26 10:04:19|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
+[2016-04-26 10:05:09|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor ChangeInAssetsTurnover_TTM
+[2016-04-26 10:06:01|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor ChangeInCashFlowMargin_TTM
+[2016-04-26 10:06:52|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor ChangeInGrossMargin_TTM
+[2016-04-26 10:07:44|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor ChangeInROE_TTM
+[2016-04-26 10:08:41|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor DividendYieldGrowth_TTM_1Y
+[2016-04-26 10:09:32|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor EarningGrowth_TTM_1Y
+[2016-04-26 10:11:45|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-26 10:12:04|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
+[2016-04-26 10:13:09|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor ChangeInAssetsTurnover_TTM
+[2016-04-26 10:14:13|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor ChangeInCashFlowMargin_TTM
+[2016-04-26 10:15:16|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor ChangeInGrossMargin_TTM
+[2016-04-26 10:16:19|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor ChangeInROE_TTM
+[2016-04-26 10:17:25|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor DividendYieldGrowth_TTM_1Y
+[2016-04-26 10:19:07|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-26 10:19:25|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
+[2016-04-26 10:24:27|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-26 10:24:48|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
+[2016-04-26 10:27:52|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-26 10:28:10|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
+[2016-04-26 10:29:11|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-26 10:29:29|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
+[2016-04-26 10:33:04|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-26 10:33:23|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
+[2016-04-26 10:34:18|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor ChangeInAssetsTurnover_TTM
+[2016-04-26 10:35:03|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-26 10:35:22|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
+[2016-04-26 10:36:16|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor ChangeInAssetsTurnover_TTM
+[2016-04-26 10:37:11|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor ChangeInCashFlowMargin_TTM
+[2016-04-26 10:38:03|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor ChangeInGrossMargin_TTM
+[2016-04-26 10:38:59|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor ChangeInROE_TTM
+[2016-04-26 10:39:58|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor DividendYieldGrowth_TTM_1Y
+[2016-04-26 10:40:56|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor EarningGrowth_TTM_1Y
+[2016-04-26 10:41:55|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor EarningGrowth_TTM_2Y
+[2016-04-26 10:42:50|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor EarningGrowth_TTM_3Y
+[2016-04-26 10:43:49|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor ForecastedGrowth
+[2016-04-26 10:44:45|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor PastForecastError
+[2016-04-26 10:45:41|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor PEG_TTM
+[2016-04-26 10:46:37|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor SalesGrowth_TTM_1Y
+[2016-04-26 10:47:31|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor Momentum120D
+[2016-04-26 10:48:26|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor Momentum180D
+[2016-04-26 10:49:24|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor Momentum240D
+[2016-04-26 10:50:22|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor Momentum60D
+[2016-04-26 10:51:17|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor Ret120D
+[2016-04-26 10:52:15|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor Ret180D
+[2016-04-26 10:53:13|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor Ret20D
+[2016-04-26 10:54:13|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor Ret60D
+[2016-04-26 10:55:15|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor AssetsTurnover
+[2016-04-26 10:56:13|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor AssetsTurnover_TTM
+[2016-04-26 10:57:07|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor CashFlowMargin
+[2016-04-26 10:57:59|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor CashFlowMargin_TTM
+[2016-04-26 10:58:55|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor FreeCashFlowMargin
+[2016-04-26 10:59:50|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor FreeCashFlowMargin_TTM
+[2016-04-26 11:00:44|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor GrossMargin
+[2016-04-26 11:01:36|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor GrossMargin_TTM
+[2016-04-26 11:02:29|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor GrossProfit2Assets_TTM
+[2016-04-26 11:03:26|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor InventoryTurnover
+[2016-04-26 11:04:22|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor InventoryTurnover_TTM
+[2016-04-26 11:05:17|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor NetMargin
+[2016-04-26 11:06:14|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor NetMargin_TTM
+[2016-04-26 11:07:11|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor OperatingMargin
+[2016-04-26 11:08:07|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor OperatingMargin_TTM
+[2016-04-26 11:09:04|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor ROA
+[2016-04-26 11:09:56|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor ROA_TTM
+[2016-04-26 11:10:49|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor ROE
+[2016-04-26 11:11:42|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor ROE_TTM
+[2016-04-26 11:12:34|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor ROIC
+[2016-04-26 11:13:25|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor ROIC_TTM
+[2016-04-26 11:14:24|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor ROOA
+[2016-04-26 11:15:22|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor ROOA_TTM
+[2016-04-26 11:16:18|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor Accruals2Assets
+[2016-04-26 11:17:12|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor Accruals2Assets_TTM
+[2016-04-26 11:18:13|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor AssetGrowthRate
+[2016-04-26 11:19:08|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor CapExRatio_TTM
+[2016-04-26 11:20:04|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor DeferredTax_TTM
+[2016-04-26 11:20:59|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor ExtraodinaryItem2OpProfits
+[2016-04-26 11:21:52|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor ExtraodinaryItem2OpProfits_TTM
+[2016-04-26 11:22:48|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor ExtraodinaryItem_TTM
+[2016-04-26 11:23:47|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor Investment2AssetsRatio
+[2016-04-26 11:24:42|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor PercentAccruals
+[2016-04-26 11:25:43|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor PercentAccruals_TTM
+[2016-04-26 11:26:44|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor WorkingCapital2Sales_TTM
+[2016-04-26 11:27:48|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor CashRatio
+[2016-04-26 11:28:49|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor CurrentRatio
+[2016-04-26 11:29:55|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor Debt2Asset
+[2016-04-26 11:30:55|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor Debt2Equity
+[2016-04-26 11:31:55|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor InterestCoverage
+[2016-04-26 11:32:54|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor InterestCoverage_TTM
+[2016-04-26 11:33:52|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor Liab2Equity
+[2016-04-26 11:34:51|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor QuickRatio
+[2016-04-26 11:35:48|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor B2P
+[2016-04-26 11:36:46|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor CapitalEmployed2EV
+[2016-04-26 11:37:41|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor CashFlowYield_TTM
+[2016-04-26 11:38:37|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor DividendYield_TTM
+[2016-04-26 11:39:31|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor E2P_TTM
+[2016-04-26 11:40:22|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor EBIT2EV_TTM
+[2016-04-26 11:41:12|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor EBITDA2EV_TTM
+[2016-04-26 11:42:09|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor EPS_FY
+[2016-04-26 11:43:07|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor FCF2EV_TTM
+[2016-04-26 11:44:06|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor GrossProfits2EV_TTM
+[2016-04-26 11:45:04|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor S2EV_TTM
+[2016-04-26 11:45:55|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor S2P_TTM
+[2016-04-26 11:46:45|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor S2P_TTM
+[2016-04-26 14:18:09|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-26 14:18:27|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
+[2016-04-26 14:19:21|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Load local database into in-memory database
+[2016-04-26 14:19:40|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Done
+[2016-04-26 14:20:43|GetHedgedPortfolioAndCalculateReturn|INFO] <GetHedgedPortfolioBySingleFactor>-Plot hedged return of factor Size
