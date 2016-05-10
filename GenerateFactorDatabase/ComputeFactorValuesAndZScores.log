@@ -7698,3 +7698,114 @@
 [2016-05-04 17:52:44|ComputeFactorValuesAndZScores|INFO] <ComputeFactorValues>-Compute factor of 603885
 [2016-05-04 17:52:44|ComputeFactorValuesAndZScores|INFO] <ComputeFactorValues>-Compute factor of 603899
 [2016-05-04 17:52:44|ComputeFactorValuesAndZScores|INFO] <ComputeFactorValues>-Compute factor of 603993
+[2016-05-09 14:06:37|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load local database into in-memory database...
+[2016-05-09 14:07:41|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load local database into in-memory database...
+[2016-05-09 14:07:42|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load table MarketData
+[2016-05-09 14:09:15|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:09:15|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load talbe MarketCap
+[2016-05-09 14:09:16|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:09:16|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Create index on table MarketData
+[2016-05-09 14:09:28|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:09:28|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Create index on table MarketCap
+[2016-05-09 14:09:28|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:10:00|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load local database into in-memory database...
+[2016-05-09 14:10:00|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load table MarketData
+[2016-05-09 14:10:08|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:10:08|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load talbe MarketCap
+[2016-05-09 14:10:08|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:10:08|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Create index on table MarketData
+[2016-05-09 14:10:20|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:10:20|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Create index on table MarketCap
+[2016-05-09 14:10:20|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:15:35|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load local database into in-memory database...
+[2016-05-09 14:15:35|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load table MarketData
+[2016-05-09 14:15:43|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:15:43|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load talbe MarketCap
+[2016-05-09 14:15:43|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:15:43|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Create index on table MarketData
+[2016-05-09 14:15:55|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:15:55|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Create index on table MarketCap
+[2016-05-09 14:15:55|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:16:37|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load local database into in-memory database...
+[2016-05-09 14:16:37|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load table MarketData
+[2016-05-09 14:16:45|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:16:45|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load talbe MarketCap
+[2016-05-09 14:16:46|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:16:46|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Create index on table MarketData
+[2016-05-09 14:16:58|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:16:58|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Create index on table MarketCap
+[2016-05-09 14:16:58|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:28:56|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load local database into in-memory database...
+[2016-05-09 14:28:56|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load table MarketData
+[2016-05-09 14:29:04|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:29:04|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load talbe MarketCap
+[2016-05-09 14:29:04|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:29:04|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Create index on table MarketData
+[2016-05-09 14:29:16|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:29:16|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Create index on table MarketCap
+[2016-05-09 14:29:17|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:30:21|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load local database into in-memory database...
+[2016-05-09 14:30:21|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load table MarketData
+[2016-05-09 14:30:29|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:30:29|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load talbe MarketCap
+[2016-05-09 14:30:29|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:30:29|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Create index on table MarketData
+[2016-05-09 14:30:42|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:30:42|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Create index on table MarketCap
+[2016-05-09 14:30:42|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:32:17|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load local database into in-memory database...
+[2016-05-09 14:32:17|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load table MarketData
+[2016-05-09 14:32:25|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:32:25|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load talbe MarketCap
+[2016-05-09 14:32:25|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:32:25|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Create index on table MarketData
+[2016-05-09 14:32:38|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:32:38|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Create index on table MarketCap
+[2016-05-09 14:32:38|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:38:36|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load local database into in-memory database...
+[2016-05-09 14:38:36|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load table MarketData
+[2016-05-09 14:38:44|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:38:44|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load talbe MarketCap
+[2016-05-09 14:38:44|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:38:44|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Create index on table MarketData
+[2016-05-09 14:38:56|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 14:38:56|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Create index on table MarketCap
+[2016-05-09 14:38:56|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 15:05:13|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load local database into in-memory database...
+[2016-05-09 15:05:13|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load table MarketData
+[2016-05-09 15:05:21|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 15:05:21|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load talbe MarketCap
+[2016-05-09 15:05:21|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 15:05:21|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Create index on table MarketData
+[2016-05-09 15:05:33|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 15:05:33|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Create index on table MarketCap
+[2016-05-09 15:05:33|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 15:38:46|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load local database into in-memory database...
+[2016-05-09 15:38:46|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load table MarketData
+[2016-05-09 15:38:54|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 15:38:54|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load talbe MarketCap
+[2016-05-09 15:38:54|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 15:38:54|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Create index on table MarketData
+[2016-05-09 15:39:06|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 15:39:06|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Create index on table MarketCap
+[2016-05-09 15:39:06|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 15:41:35|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load local database into in-memory database...
+[2016-05-09 15:41:35|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load table MarketData
+[2016-05-09 15:41:43|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 15:41:43|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load talbe MarketCap
+[2016-05-09 15:41:43|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 15:41:43|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Create index on table MarketData
+[2016-05-09 15:41:55|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 15:41:55|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Create index on table MarketCap
+[2016-05-09 15:41:55|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 15:59:24|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load local database into in-memory database...
+[2016-05-09 15:59:24|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load table MarketData
+[2016-05-09 16:00:18|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load local database into in-memory database...
+[2016-05-09 16:00:18|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load table MarketData
+[2016-05-09 16:00:27|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 16:00:27|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Load talbe MarketCap
+[2016-05-09 16:00:27|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 16:00:27|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Create index on table MarketData
+[2016-05-09 16:00:40|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done
+[2016-05-09 16:00:40|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Create index on table MarketCap
+[2016-05-09 16:00:40|ComputeFactorValuesAndZScores|INFO] <_CalculateFactorValues>-Done

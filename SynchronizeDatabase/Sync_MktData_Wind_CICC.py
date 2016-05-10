@@ -1,5 +1,5 @@
 import os,sys,logging
-root = os.path.abspath("D:\\MyQuantLib\\")
+root = os.path.abspath("D:\\PyQuantLib\\")
 sys.path.append(root)
 
 import SynchronizeDatabase.Db_Wind_CICC.SyncFinRptData as SyncFinRpt
