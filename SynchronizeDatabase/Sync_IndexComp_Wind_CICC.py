@@ -7,7 +7,7 @@
 """
 
 import os,sys,logging
-root = os.path.abspath("D:\\MyQuantLib\\")
+root = os.path.abspath("D:\\PyQuantLib\\")
 sys.path.append(root)
 
 import SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp as SyncIndexComp
@@ -21,7 +21,7 @@ sync = SyncIndexComp.SyncData(logHandlers)
 sync.LoadDataTableConfigs("Configs\\IndexComp_Wind_CICC.cfg")
 sync.ConnRmtDb()
 sync.CheckRmtDb()
-localDbName = "MktGenInfo\\IndexComp_Wind_CICC.db"
+localDbName = "MktGenInfo\\IndexConstituent_Wind_CICC.db"
 sync.ConnLocalDb(localDbName)
 sync.CheckLocalDb()
 sync.Sync(1)

@@ -12,7 +12,8 @@ import os,sys,logging,time,decimal,codecs,numpy,re,sqlite3
 root = os.path.abspath("D:\\PyQuantLib\\")
 sys.path.append(root)
 import Tools.LogOutputHandler as LogHandler
-import UpdateFactorDatabase.TechnicalFactors._CalculateFactorValues as CalcFactors
+import UpdateFactorDatabase.TechnicalFactors.ComputeFactorValues as modComputeFactor
+
 
 #----------------------------------------------------------------------
 def MainFunc():
@@ -26,17 +27,22 @@ def MainFunc():
     ch=myLogHandler[1]
     myLog.addHandler(fh)
     myLog.addHandler(ch)
+    
+    #Initiate a ComputeFactor object
+    objComputeFactor = modComputeFactor.ComputeFactorValues(myLog)        
 
     #Load source database
     dbPathMktData = "MktData\\MktData_Wind_CICC.db"
-    
-    #Initiate a ComputeFactor object
-    objComputeFactor = CalcFactors.CalculateFactorValues(dbPathMktData,None,myLog)    
+    dbPathConstituentStocks = "MktGenInfo\\IndexConstituent_WIND_CICC.db"
+    objComputeFactor.LoadSourceData(dbPathMktData,dbPathConstituentStocks)
     
     #Set stock universe and rebalance date
-    begDate = "20070101"
+    begDate = "20150101"
     
-    objComputeFactor.Calculate(begDate,"002195","")
+    objComputeFactor.LoadFactorAlgos()
+    
+    
+    objComputeFactor.ComputeAndSaveFactorValues("TechnicalFactors",begDate)
     
 
     

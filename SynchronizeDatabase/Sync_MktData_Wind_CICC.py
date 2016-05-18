@@ -1,3 +1,11 @@
+#!/usr/bin/env python
+#coding:utf-8
+"""
+  Author:  Wusf --<wushifan221@gmail.com>
+  Purpose: 
+  Created: 2016/5/16
+"""
+
 import os,sys,logging
 root = os.path.abspath("D:\\PyQuantLib\\")
 sys.path.append(root)

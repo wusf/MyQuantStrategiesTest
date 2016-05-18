@@ -561,3 +561,90 @@
 [2016-03-18 11:01:39|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO]   Update table:WINDDB.TB_OBJECT_1420
 [2016-03-18 11:01:44|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Create local table: SWIndustry1st
 [2016-03-18 11:01:44|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO]   Update table:WINDDB.TB_OBJECT_1476
+[2016-05-16 15:47:48|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] SynchronizeDatabase.SyncDb load config file: 'DatabaseInfo.cfg'
+[2016-05-16 15:47:48|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] SynchronizeDatabase.SyncDb load config file: Configs\IndexComp_Wind_CICC.cfg
+[2016-05-16 15:47:48|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Connect remote database
+[2016-05-16 15:47:48|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] SynchronizeDatabase.ConnDb load config file: 'DatabaseInfo.cfg'
+[2016-05-16 15:47:48|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Connecting to remote database: 'CICCWind'...
+[2016-05-16 15:47:48|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO]   Server: '192.168.142.83:1521/van'
+[2016-05-16 15:47:48|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO]   Username: 'fid'
+[2016-05-16 15:47:48|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO]   Password: 'fidrdwd'
+[2016-05-16 15:47:48|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Successfully connected!
+[2016-05-16 15:47:48|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Check remote database...
+[2016-05-16 15:47:48|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Check remote table: 'WINDDB.TB_OBJECT_1420'('IndexComp')
+[2016-05-16 15:47:48|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Check remote table: 'WINDDB.TB_OBJECT_1476'('SWIndustry1st')
+[2016-05-16 15:47:48|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Connecting to local database 'MktGenInfo\IndexConstituent_Wind_CICC.db'
+[2016-05-16 15:47:48|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Database 'MktGenInfo\IndexConstituent_Wind_CICC.db' dose not exist, create one
+[2016-05-16 15:47:48|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Check local database...
+[2016-05-16 15:47:48|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Local table 'IndexComp' dose not exist
+[2016-05-16 15:47:48|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Create local table: IndexComp
+[2016-05-16 15:47:48|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Local table 'SWIndustry1st' dose not exist
+[2016-05-16 15:47:48|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Create local table: SWIndustry1st
+[2016-05-16 15:47:48|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Syncronizing...
+[2016-05-16 15:47:48|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Create local table: IndexComp
+[2016-05-16 15:47:49|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO]   Update table:WINDDB.TB_OBJECT_1420
+[2016-05-16 15:47:52|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Create local table: SWIndustry1st
+[2016-05-16 15:47:52|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO]   Update table:WINDDB.TB_OBJECT_1476
+[2016-05-16 15:51:18|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] SynchronizeDatabase.SyncDb load config file: 'DatabaseInfo.cfg'
+[2016-05-16 15:51:18|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] SynchronizeDatabase.SyncDb load config file: Configs\IndexComp_Wind_CICC.cfg
+[2016-05-16 15:51:18|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Connect remote database
+[2016-05-16 15:51:18|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] SynchronizeDatabase.ConnDb load config file: 'DatabaseInfo.cfg'
+[2016-05-16 15:51:18|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Connecting to remote database: 'CICCWind'...
+[2016-05-16 15:51:18|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO]   Server: '192.168.142.83:1521/van'
+[2016-05-16 15:51:18|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO]   Username: 'fid'
+[2016-05-16 15:51:18|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO]   Password: 'fidrdwd'
+[2016-05-16 15:51:18|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Successfully connected!
+[2016-05-16 15:51:18|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Check remote database...
+[2016-05-16 15:51:18|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Check remote table: 'WINDDB.TB_OBJECT_1420'('IndexComp')
+[2016-05-16 15:51:18|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Check remote table: 'WINDDB.TB_OBJECT_1476'('SWIndustry1st')
+[2016-05-16 15:51:18|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Connecting to local database 'MktGenInfo\IndexConstituent_Wind_CICC.db'
+[2016-05-16 15:51:18|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Check local database...
+[2016-05-16 15:51:18|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Check local table: 'IndexComp'
+[2016-05-16 15:51:18|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Check local table: 'SWIndustry1st'
+[2016-05-16 15:51:18|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Syncronizing...
+[2016-05-16 15:51:18|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Create local table: IndexComp
+[2016-05-16 15:51:18|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO]   Update table:WINDDB.TB_OBJECT_1420
+[2016-05-16 15:51:20|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Create local table: SWIndustry1st
+[2016-05-16 15:51:20|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO]   Update table:WINDDB.TB_OBJECT_1476
+[2016-05-16 15:52:38|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] SynchronizeDatabase.SyncDb load config file: 'DatabaseInfo.cfg'
+[2016-05-16 15:52:38|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] SynchronizeDatabase.SyncDb load config file: Configs\IndexComp_Wind_CICC.cfg
+[2016-05-16 15:52:38|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Connect remote database
+[2016-05-16 15:52:38|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] SynchronizeDatabase.ConnDb load config file: 'DatabaseInfo.cfg'
+[2016-05-16 15:52:38|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Connecting to remote database: 'CICCWind'...
+[2016-05-16 15:52:38|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO]   Server: '192.168.142.83:1521/van'
+[2016-05-16 15:52:38|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO]   Username: 'fid'
+[2016-05-16 15:52:38|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO]   Password: 'fidrdwd'
+[2016-05-16 15:52:38|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Successfully connected!
+[2016-05-16 15:52:38|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Check remote database...
+[2016-05-16 15:52:38|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Check remote table: 'WINDDB.TB_OBJECT_1420'('IndexComp')
+[2016-05-16 15:52:38|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Check remote table: 'WINDDB.TB_OBJECT_1476'('SWIndustry1st')
+[2016-05-16 15:52:38|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Connecting to local database 'MktGenInfo\IndexConstituent_Wind_CICC.db'
+[2016-05-16 15:52:38|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Check local database...
+[2016-05-16 15:52:38|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Check local table: 'IndexComp'
+[2016-05-16 15:52:38|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Check local table: 'SWIndustry1st'
+[2016-05-16 15:52:38|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Syncronizing...
+[2016-05-16 15:52:38|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Create local table: IndexComp
+[2016-05-16 15:52:38|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO]   Update table:WINDDB.TB_OBJECT_1420
+[2016-05-16 15:52:40|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Create local table: SWIndustry1st
+[2016-05-16 15:52:40|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO]   Update table:WINDDB.TB_OBJECT_1476
+[2016-05-17 14:51:24|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] SynchronizeDatabase.SyncDb load config file: 'DatabaseInfo.cfg'
+[2016-05-17 14:51:24|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] SynchronizeDatabase.SyncDb load config file: Configs\IndexComp_Wind_CICC.cfg
+[2016-05-17 14:51:24|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Connect remote database
+[2016-05-17 14:51:24|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] SynchronizeDatabase.ConnDb load config file: 'DatabaseInfo.cfg'
+[2016-05-17 14:51:24|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Connecting to remote database: 'CICCWind'...
+[2016-05-17 14:51:24|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO]   Server: '192.168.142.83:1521/van'
+[2016-05-17 14:51:24|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO]   Username: 'fid'
+[2016-05-17 14:51:24|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO]   Password: 'fidrdwd'
+[2016-05-17 14:51:24|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Successfully connected!
+[2016-05-17 14:51:24|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Check remote database...
+[2016-05-17 14:51:24|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Check remote table: 'WINDDB.TB_OBJECT_1420'('IndexComp')
+[2016-05-17 14:51:24|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Check remote table: 'WINDDB.TB_OBJECT_1476'('SWIndustry1st')
+[2016-05-17 14:51:24|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Connecting to local database 'MktGenInfo\IndexConstituent_Wind_CICC.db'
+[2016-05-17 14:51:24|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Check local database...
+[2016-05-17 14:51:24|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Check local table: 'IndexComp'
+[2016-05-17 14:51:24|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Check local table: 'SWIndustry1st'
+[2016-05-17 14:51:24|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Syncronizing...
+[2016-05-17 14:51:24|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Create local table: IndexComp
+[2016-05-17 14:51:24|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO]   Update table:WINDDB.TB_OBJECT_1420
+[2016-05-17 14:51:28|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO] Create local table: SWIndustry1st
+[2016-05-17 14:51:28|SynchronizeDatabase.Db_Wind_CICC.SyncIndexComp|INFO]   Update table:WINDDB.TB_OBJECT_1476
