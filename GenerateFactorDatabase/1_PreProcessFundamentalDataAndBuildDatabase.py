@@ -9,10 +9,10 @@
 import os,sys,logging,time,decimal,codecs,numpy,re,sqlite3
 from datetime import datetime,timedelta
 
-root = os.path.abspath("D:\\MyQuantLib\\")
+root = os.path.abspath("D:\\PyQuantLib\\")
 sys.path.append(root)
 import Tools.LogOutputHandler as LogHandler
-import FactorModel.PreProcessFundamentalData.BuildPointInTimeFundamentalDatabase as modBuildPITDB
+import UpdateFactorDatabase.PreProcessFundamentalData.BuildPointInTimeFundamentalDatabase as modBuildPITDB
 
 
 #----------------------------------------------------------------------
@@ -32,8 +32,8 @@ def MainFunc():
     objBuildPITDB = modBuildPITDB.BuildPITFundamentalDatabase(myLog)
     
     #Database address and load raw data
-    addrssDBIndexConstituent = "\\MktGenInfo\\IndexConstituent_Wind.db"
-    constituentIndex = "399906"
+    addrssDBIndexConstituent = "\\MktGenInfo\\IndexConstituent_Wind_CICC.db"
+    constituentIndex = ["399106","000001"]
     objBuildPITDB.SetStockUniverse(addrssDBIndexConstituent,constituentIndex)
     objBuildPITDB.LoadFundamentalDataItemsToBeProcessed()
     
