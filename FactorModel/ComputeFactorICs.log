@@ -121,3 +121,199 @@
 [2016-04-21 15:18:07|ComputeFactorICs|INFO] <ComputeFactorICs>-Done
 [2016-04-21 15:23:06|ComputeFactorICs|INFO] <ComputeFactorICs>-Load local database into in-memory database
 [2016-04-21 15:23:22|ComputeFactorICs|INFO] <ComputeFactorICs>-Done
+[2016-05-26 10:16:43|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 10:16:43|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 10:16:43|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 10:16:43|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 10:17:00|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 10:17:00|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 10:17:00|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 10:17:00|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 10:18:20|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 10:18:20|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 10:18:20|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 10:18:20|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 10:21:32|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 10:21:32|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 10:21:32|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 10:21:32|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 10:22:30|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 10:22:30|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 10:22:30|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 10:22:30|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 10:22:46|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 10:22:46|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 10:22:46|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 10:22:46|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 10:26:51|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 10:26:51|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 10:26:51|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 10:26:52|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 10:27:44|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 10:27:44|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 10:27:44|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 10:27:44|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 10:31:52|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 10:31:52|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 10:31:52|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 10:31:52|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 10:32:24|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 10:32:24|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 10:32:24|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 10:32:24|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 10:33:25|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 10:33:25|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 10:33:25|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 10:33:25|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 10:34:05|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 10:34:05|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 10:34:05|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 10:34:05|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 10:35:22|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 10:35:22|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 10:35:22|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 10:35:23|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 10:49:35|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 10:49:35|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 10:49:35|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 10:49:35|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 10:49:49|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 10:49:49|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 10:49:49|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 10:49:50|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 10:50:05|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 10:50:05|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 10:50:05|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 10:50:05|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 10:54:22|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 10:54:22|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 10:54:22|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 10:54:22|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 10:59:12|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 10:59:12|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 10:59:12|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 10:59:12|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 10:59:59|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 10:59:59|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 10:59:59|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 10:59:59|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 11:01:48|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 11:01:48|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 11:01:48|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 11:01:48|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 11:02:06|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 11:02:06|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 11:02:06|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 11:02:07|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 11:03:29|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 11:03:29|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 11:03:29|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 11:03:29|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 11:05:23|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 11:05:23|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 11:05:23|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 11:05:23|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 11:25:27|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 11:25:27|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 11:25:27|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 11:25:27|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 11:25:51|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 11:25:51|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 11:25:51|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 11:25:51|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 11:37:23|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 11:37:23|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 11:37:23|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 11:37:23|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 11:37:47|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 11:37:47|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 11:37:47|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 11:37:47|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 11:41:40|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 11:41:40|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 11:41:40|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 11:41:40|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 11:44:56|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 11:44:56|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 11:44:56|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 11:44:56|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 11:46:00|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 11:46:00|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 11:46:00|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 11:46:00|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 11:51:27|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 11:51:27|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 11:51:27|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 11:51:27|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 11:51:46|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 11:51:46|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 11:51:46|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 11:51:47|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 11:53:17|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 11:53:17|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 11:53:17|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 11:53:17|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 11:54:40|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 11:54:41|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 11:54:41|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 11:54:41|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 11:56:29|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 11:56:29|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 11:56:29|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 11:56:29|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 12:01:59|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 12:01:59|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 12:01:59|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 12:01:59|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 12:08:14|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 12:08:14|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 12:08:14|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 12:08:14|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 12:09:09|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 12:09:09|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 12:09:09|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 12:09:09|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 12:11:17|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 12:11:17|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 12:11:17|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 12:11:17|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 12:13:14|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 12:13:14|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 12:13:14|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 12:13:15|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 12:18:25|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 12:18:25|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 12:18:25|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 12:18:25|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 16:24:46|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 16:24:46|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 16:24:46|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 16:24:47|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 16:27:37|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 16:27:37|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 16:27:37|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 16:27:37|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 16:55:28|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 16:55:28|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 16:55:28|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 16:55:28|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 17:13:40|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 17:13:40|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 17:13:40|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 17:13:40|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 17:14:35|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 17:14:35|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 17:14:35|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 17:14:35|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 17:15:30|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 17:15:30|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 17:15:30|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 17:15:30|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 17:16:30|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 17:16:30|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 17:16:30|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 17:16:30|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification
+[2016-05-26 17:17:44|mf|INFO] <GetIndexConstituentStocks>-Load table IndexConstituent
+[2016-05-26 17:17:44|mf|INFO] <GetIndexConstituentStocks>-Load table sywg industry classification
+[2016-05-26 17:17:44|mf|INFO] <GetIndexConstituentStocks>-Create index on table IndexConstituent
+[2016-05-26 17:17:44|mf|INFO] <GetIndexConstituentStocks>-Create index on table sywg industry classification

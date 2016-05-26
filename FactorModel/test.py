@@ -30,12 +30,22 @@ def MainFunc():
     dbNameFactor = "TestFctorDatabase.db"
     factorTypes = ["Fundamental"]
     
-    objGetFactorValues.LoadFactorValueTablesIntoMemory(dbNameFactor,factorTypes)
+    objGetFactorValues.LoadFactorTablesIntoMemory(dbNameFactor,factorTypes)
     
-    objGetFactorValues.ChooseFactors(["Date","ROOA"],[],[])
+    objGetFactorValues.ChooseFactors(["Date","ROOA"],["FRet60d"],[])
     
-    v = objGetFactorValues.GetFactorValues("600837","20151205",90)
+    v = objGetFactorValues.GetFactorValues("600837","20151209",90)
     print v
     
 if __name__ == "__main__":
     MainFunc()
+    
+    
+#import Tools.GetTradeDays as TradeDays
+
+
+#td = TradeDays.TradeDays()
+#td.GetTradeDays()
+#rbd = td.GetRebalanceDays("20100101","20151231","weekly",1)
+#for d in rbd:
+    #print d
