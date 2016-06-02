@@ -18,7 +18,7 @@ os.environ['NLS_LANG'] = 'SIMPLIFIED CHINESE_CHINA.ZHS16GBK'
 logHandlers = LogHandler.LogOutputHandler("SyncPrice.log")
 
 sync = SyncMktData.SyncData(logHandlers)
-sync.SetStartDate("20030101")
+sync.SetStartDate("19900101")
 sync.ConvertDatesToMonths()
 sync.LoadDataTableConfigs("Configs//MktData_Wind_CICC.cfg")
 sync.ConnRmtDb()

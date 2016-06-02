@@ -26,7 +26,7 @@ myLog.addHandler(ch)
 mf = MF.MagicFormula(myLog)
 mf.LoadFactorDatabase("TestFactorDatabase.db",["Fundamental"])
 addrssDBIndexConstituent = "\\MktGenInfo\\IndexConstituent_Wind_CICC.db"
-constituentIndex = ["000300"]
+constituentIndex = ["000001","399106"]
 mf.SetStockUniverse(addrssDBIndexConstituent,constituentIndex)
 mf.SetRebalanceDate("20080101","20150101","quarterly",1)
-mf.GenerateTradeList(30000)
+mf.GenerateTradeList(0)

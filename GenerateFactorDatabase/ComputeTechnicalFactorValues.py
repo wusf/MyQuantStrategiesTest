@@ -37,7 +37,7 @@ def MainFunc():
     objComputeFactor.LoadSourceData(dbPathMktData,dbPathConstituentStocks)
     
     #Set stock universe and rebalance date
-    begDate = "20080101"
+    begDate = "20070101"
     
     objComputeFactor.LoadFactorAlgos()
     

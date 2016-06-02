@@ -42,7 +42,7 @@ def MainFunc():
     objBuildPITDB.CreateDatabase(namePITDatabase)
     
     #Start to process data
-    startDate="20050101"
+    startDate="20040101"
     objBuildPITDB.CalculateAndSaveData(startDate)
     
 

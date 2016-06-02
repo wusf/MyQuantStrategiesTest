@@ -27,15 +27,15 @@ def MainFunc():
     
     objGetFactorValues = modGetFactorValues.GetFactorValues(myLog)
     
-    dbNameFactor = "TestFctorDatabase.db"
+    dbNameFactor = "TestFactorDatabase.db"
     factorTypes = ["Fundamental"]
     
     objGetFactorValues.LoadFactorTablesIntoMemory(dbNameFactor,factorTypes)
     
-    objGetFactorValues.ChooseFactors(["Date","ROOA"],["FRet60d"],[])
+    objGetFactorValues.ChooseFactors(["EBIT2EV_TTM"],["FRet60d"],[])
     
-    v = objGetFactorValues.GetFactorValues("600837","20151209",90)
-    print v
+    v = objGetFactorValues.GetFactorValues("600723","20140826",90)
+    print type(v["RptType"])
     
 if __name__ == "__main__":
     MainFunc()
